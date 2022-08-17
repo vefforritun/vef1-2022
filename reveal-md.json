@@ -1,0 +1,8 @@
+{
+  "theme": "solarized",
+  "highlightTheme": "zenburn",
+  "separator": "^\\s{0,3}-\\s*-\\s*-[-\\s]*$",
+  "verticalSeparator": "^\\s{0,3}\\*\\s*\\*\\s*\\*[\\*\\s]*$",
+  "css": "templates/custom.css",
+  "template": "templates/reveal.html"
+}

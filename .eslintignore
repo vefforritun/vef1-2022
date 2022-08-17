@@ -1,0 +1,9 @@
+node_modules/
+_static/**/*.*
+templates/**/*.*
+
+**/dist/**/*.*
+bundle.js
+
+vikur/08/daemi/errors/strict.js
+vikur/08/daemi/modules/no-modules.js
