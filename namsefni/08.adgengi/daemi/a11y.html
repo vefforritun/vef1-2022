@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8">
+    <title>Accessibility</title>
+  </head>
+
+  <body>
+    <h1>Accessibility example</h1>
+    <p><a href="#content">Go to content</a></p>
+
+    <nav>
+      <ul>
+        <li><a href="a11y.html">Accessibility</a></li>
+        <li><a href="embedded.html">Embedded content</a></li>
+        <li><a href="invalid.xhtml">Illegal XHTML</a></li>
+      </ul>
+    </nav>
+
+    <article id="content">
+      <section>
+        <h2>My article</h2>
+        <p>Hello, world</p>
+
+        <!-- mynd án alt text -->
+        <img src="../1.html-element/media/butterfly.jpg">
+
+        <!-- mynd með tóman alt text -->
+        <img src="../1.html-element/media/butterfly.jpg" alt="">
+      </section>
+
+      <section>
+        <h2>Instructions for use</h2>
+        <p>Follow instructions, see image</p>
+
+        <!-- alt texti á mynd en mjög lélegur í samhengi -->
+        <img src="../1.html-element/media/butterfly.jpg" alt="Instructions">
+
+        <p>Follow instructions, see image</p>
+
+        <!-- betri alt texti -->
+        <img src="../1.html-element/media/butterfly.jpg" alt="Start by removing the lid, then remove the stuff.">
+      </section>
+
+      <section>
+        <h2>Funny stuff</h2>
+        <div>
+          <p>Funny video</p>
+          <video>
+            <source src="../1.html-element/media/big_buck_bunny.mp4">
+          </video>
+        </div>
+
+        <!-- video er ekki mikilvægt svo við getum falið -->
+        <div aria-hidden="true">
+          <p>Funny video</p>
+          <video autoplay muted >
+            <source src="../1.html-element/media/big_buck_bunny.mp4">
+          </video>
+        </div>
+      </section>
+
+      <section>
+        <h2>Signup form</h2>
+
+        <fieldset>
+          <legend>Your info</legend>
+          <div>
+            Name:
+            <input name="x" type="text">
+          </div>
+          <div>
+            <label for="email">Email:</label>
+            <input
+              type="email"
+              id="email"
+              placeholder="email@example.org"
+              required
+              aria-describedby="email-text"
+            >
+            <em id="email-text">Email must include "@"</em>
+          </div>
+          <div>
+            <!--
+              hér notum við <button> en ef við værum með virkni í öðru elementi
+              getum við notað aria-role
+            -->
+            <button>Submit</button>
+            <span
+              role="button"
+              tabindex="0"
+              aria-pressed="false"
+              onclick="handleBtnClick(event)"
+              onKeyPress="handleBtnKeyPress(event)"
+            >
+              Span button
+            </span>
+          </div>
+        </fieldset>
+      </section>
+      <hr>
+      <footer>
+        <p>Footer stuff.</p>
+        <p>Footer stuff.</p>
+        <p>Footer stuff.</p>
+      </footer>
+    </article>
+  </body>
+</html>
