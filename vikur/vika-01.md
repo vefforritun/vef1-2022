@@ -1,5 +1,7 @@
 # Vika 1, 22.–28. ágúst 2022
 
+## Fyrirlestrar
+
 * [Fyrirlestur 1.3: Uppsetning á visual studio code, möppur og skrár (38:03)](https://youtu.be/qujtnG-okJg)
 * [Fyrirlestur 1.4: Áframhald á uppsetning á visual studio code, uppsetning á GitHub & Netlify (34:37)](https://youtu.be/aDxOyCm5OgU)
 
@@ -28,7 +30,7 @@
 
 ## Verkefni
 
-* [ ] Setja upp [Slack](https://slack.com)
+* [ ] Setja upp [Slack](https://slack.com) (ekki krafa)
   * [ ] Skrá sig inn á [Vefforritunar Slackið](https://vefforritun.slack.com/), passa að þið séuð á `#vef1-2022-fyrirlestrar` og `#vef1-2022-verkefni` rásunum
 * [ ] [Skoða YouTube rás fyrir vefforritun](https://www.youtube.com/channel/UCPtLVvj-XXcHWEGLuFCrGMg)
   * [ ] Ef þið viljið fá tilkynningu þegar fyrirlestrar eru settir inn er hægt að subscribea á rás

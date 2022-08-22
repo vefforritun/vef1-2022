@@ -6,10 +6,11 @@ Margir af fyrirlestrum voru teknir upp fyrir áfangann árið 2021 og geta því
 
 ## Lesefni
 
-* [Kynning](./01.kynning/)
-* [Inngangur](./02.inngangur/)
-* [Git og GitHub](./03.git/)
-* [HTML](./04.html/)
+* [Vika 1](../vikur/vika-01.md)
+  * [Kynning](./01.kynning/)
+  * [Inngangur](./02.inngangur/)
+  * [Git og GitHub](./03.git/)
+  * [HTML](./04.html/)
 
 ## Kennslubækur
 
