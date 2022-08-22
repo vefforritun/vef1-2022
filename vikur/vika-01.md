@@ -1,5 +1,8 @@
 # Vika 1, 22.–28. ágúst 2022
 
+* [Fyrirlestur 1.3: Uppsetning á visual studio code, möppur og skrár (38:03)](https://youtu.be/qujtnG-okJg)
+* [Fyrirlestur 1.4: Áframhald á uppsetning á visual studio code, uppsetning á GitHub & Netlify (34:37)](https://youtu.be/aDxOyCm5OgU)
+
 ## Námsefni
 
 * [Kynning á áfanga og námsefni](../namsefni/01.kynning/readme.md)

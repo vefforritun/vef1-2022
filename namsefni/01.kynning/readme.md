@@ -1,8 +1,8 @@
 # Kynning
 
-[Kynning](1.kynning.md), [vídeó (xx:yy)](https://youtu.be/)
+[Kynning](1.kynning.md), [vídeó (15:01)](https://youtu.be/H-kLYI3rem8)
 
-[Námsefni](2.namsefni.md), [vídeó (xx:yy)](https://youtu.be/)
+[Námsefni](2.namsefni.md), [vídeó (12:21)](https://youtu.be/tj7XKnpTicM)
 
 ## Aukaefni
 
