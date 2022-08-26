@@ -24,7 +24,5 @@
 * [ ] Prófa [HTML validator](https://validator.w3.org/) og fá tilfinningu fyrir hvernig villur eru birtar
 * [ ] Skoða [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/) staðal og [Techniques for WCAG 2.1](https://www.w3.org/WAI/WCAG21/Techniques/)
 * [ ] Setja upp aXe viðbót í vafra
-* [ ] Lesa greinar frá Birki
 * [ ] Prófa aðgengistæki í þínu tæki, ef við á
-* [ ] Skila [verkefni 1](https://github.com/vefforritun/vef1-2021-v1)
-* [ ] Byrja á [verkefni 2](https://github.com/vefforritun/vef1-2021-v2)
+* [ ] Byrja á [verkefni 1](https://github.com/vefforritun/vef1-2022-v1)
