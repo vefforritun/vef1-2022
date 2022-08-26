@@ -2,7 +2,20 @@
 
 ## Námsefni
 
+* [HTML element](../namsefni/05.html-element.html/)
+* [HTML töflur listar og form](../namsefni/06.html-toflur-listar-form.html/)
+* [Að skrifa HTML](../namsefni/07.ad-skrifa-html.html/)
+* [Aðgengi](../namsefni/08.adgengi/)
+* [SEO](../namsefni/09.seo/)
 
+## Lesefni
+
+* [Bókin um vefforritun](https://bok.vefforritun.is/)
+  * [Kafli 4: HTML Element](https://bok.vefforritun.is/04.element.html)
+  * [Kafli 5: Töflur, listar, og form](https://bok.vefforritun.is/05.toflur-listar-form.html)
+  * [Kafli 6: Að skrifa HTML](https://bok.vefforritun.is/06.ad-skrifa-html.html)
+  * [Kafli 7: Aðgengi](https://bok.vefforritun.is/07.adgengi.html)
+  * [Kafli 8: Leitarvélabestun](https://bok.vefforritun.is/08.seo.html)
 
 ## Verkefni vikunnar
 
