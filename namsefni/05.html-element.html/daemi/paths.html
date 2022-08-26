@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8">
+    <title>Vísað í efni</title>
+  </head>
+  <body>
+    <p><a href=".">Slóð sem vísar á möppu sem þetta skjal er í</a></p>
+    <p><a href="..">Slóð sem vísar á möppu foreldris</a></p>
+    <p><a href="/">Slóð sem vísar á „rót“</a></p>
+
+    <!-- vísum í skjalið sem er „systkini“ -->
+    <p><a href="flow.html">Flæði element</a></p>
+
+    <!-- vísum í skjalið sem er í möppu fyrir ofan -->
+    <p><a href="../readme.md">Readme fyrir fyrirlestur 2</a></p>
+
+    <!-- vísum í skjal á.. áhugaverðan hátt  -->
+    <p><a href="./media/../../daemi/../1.html-element/flow.html">Flæði element eftir krókaleiðum</a></p>
+
+    <!-- vísum út í buskann -->
+    <p><a href="/media/">Eitthvað út í buskann</a></p>
+
+    <hr>
+
+    <img src="./media/butterfly.jpg" alt="">
+    <img src="media/butterfly.jpg" alt="">
+    <img src="../daemi/media/butterfly.jpg" alt="">
+
+    <div><img alt="Vísað með afstæðri slóð" src="/02/daemi/1.html-element/media/butterfly.jpg"></div>
+
+    <div><img alt="Vísað með nákvæmri slóð, virkar bara á vefþjón fyrir glærur" src="http://localhost:1948/02/daemi/1.html-element/media/butterfly.jpg"></div>
+
+  </body>
+</html>
