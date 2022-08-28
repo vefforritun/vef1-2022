@@ -1,6 +1,6 @@
 # SEO—leitarvélarbestun
 
-[Fyrirlestur: Aðgengi](1.seo.md)
+[Fyrirlestur: SEO—leitarvélarbestun](1.seo.md)
 
 ## Lesefni
 

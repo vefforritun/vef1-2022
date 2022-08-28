@@ -1,6 +1,10 @@
 # Námsefni
 
-Allt námsefni áfangs þar sem vísað er í fyrirlestra á YouTube, „glærur“ (Markdown skjöl) þeirra, dæmi og tengt lesefni. Í fyrirlestrum er einnig í mörgum tilfellum fari yfir dæmi.
+Allt námsefni áfangs þar sem vísað er í fyrirlestra á YouTube, „glærur“ (Markdown skjöl) þeirra, dæmi og tengt lesefni. Í fyrirlestrum er einnig í mörgum tilfellum farið yfir dæmi.
+
+Aukaefni er tiltekið sem efni sem skal skoða, setja upp, eða prófa meðfram eða eftir fyrirlestra.
+
+Ítarefni er efni sem ekki er gerð krafa um að sé farið yfir en gæti veitt aukinn skilning á námsefninu og kynnt annað efni.
 
 Margir af fyrirlestrum voru teknir upp fyrir áfangann árið 2021 og geta því verið í annari röð en sett er upp hér.
 

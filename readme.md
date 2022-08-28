@@ -31,8 +31,6 @@ Hvert vikublað kemur inn í seinasta lagi föstudegi vikunni áður og samanste
 
 * Fyrirlestrar, lesefni og dæmi fyrir vikuna.
 * „Verkefni vikunnar“ er það sem nemendur ættu að gera í vikunni, ekki bara skilaverkefni.
-* Aukaefni er tiltekið sem efni sem skal skoða, setja upp, eða prófa meðfram eða eftir fyrirlestra.
-* Ítarefni er efni sem ekki er gerð krafa um að sé farið yfir en gæti veitt aukinn skilning á námsefninu og kynnt annað efni.
 
 ## Námsefni
 

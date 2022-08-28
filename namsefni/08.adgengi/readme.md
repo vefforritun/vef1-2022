@@ -11,7 +11,7 @@
 
 ## Dæmi
 
-[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2021/vikur/02/)
+[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2022/namsefni/08.adgengi)
 
 * [Aðgengi](daemi/4.adgengi-seo/a11y.html)
 
