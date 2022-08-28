@@ -50,6 +50,8 @@ Fyrirlestrar eru haldnir 15:00-17:20 á mánudögum.
   * Element; töflur, listar, form; að skrifa HTML; aðgengi & SEO
 * [Vika 3, 5. september–11. september](vikur/vika-03.md)
   * CSS; box model; specificity og cascade; visual formatting; Letur & litir
+* [Vika 4, 12. september–18. september](vikur/vika-04.md)
+  * Flexbox; CSS virkni & stuðningur; gestafyrirlestur um hönnun
 
 ## Verkefni
 

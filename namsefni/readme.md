@@ -27,6 +27,9 @@ Margir af fyrirlestrum voru teknir upp fyrir áfangann árið 2021 og geta því
   * [Cascade](./12.css-cascade/)
   * [Visual formattind model](./13.css-visual-formatting/)
   * [Letur og litir](./14.css-letur-litir/)
+* [Vika 4](../vikur/vika-04.md)
+  * [CSS stuðningur](./15.css-studningur/)
+  * [Flexbox](./16.css-flexbox/)
 
 ## Kennslubækur
 
@@ -67,10 +70,10 @@ Allt lesefni áfangans samkvæmt lesáætlun:
     * [Kafli 12: Sértækni & flóðið](https://bok.vefforritun.is/12.css-specifity-cascade.html)
     * [Kafli 13: Að skrifa CSS](https://bok.vefforritun.is/13.css-best-practices.html)
     * [Kafli 14: Visual Formatting módel](https://bok.vefforritun.is/14.visual-formatting.html)
+    * [Kafli 15: Letur & litir](https://bok.vefforritun.is/15.css-letur-litir.html)
   * [Resilient Web Design, chapter 2: Materials](https://resilientwebdesign.com/chapter2/)
 * Vika #4
   * [Bókin um vefforritun](https://bok.vefforritun.is/)
-    * [Kafli 15: Letur & litir](https://bok.vefforritun.is/15.css-letur-litir.html)
     * [Kafli 16: CSS stuðningur](https://bok.vefforritun.is/16.css-studningur.html)
     * [Kafli 17: Flexbox](https://bok.vefforritun.is/17.css-flexbox.html)
 * Vika #5
