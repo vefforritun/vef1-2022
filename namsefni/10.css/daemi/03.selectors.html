@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8">
+    <title>Selectors</title>
+    <!--
+      Þetta dæmi skilgreinir CSS „inline“ til hægðarauka. Betra væri að vísa í
+      CSS skjal með <link rel="stylesheet" href="skjal.css">
+    -->
+    <style>
+    /* grunn stærð fyrir em er 20px */
+    html {
+      font-size: 20px;
+    }
+
+    /* svartur 1px breiður border */
+    div {
+      border: 10px solid #000;
+    }
+
+    /* látum öll em vera með rauðan texta */
+    em {
+      color: #f00;
+    }
+
+    /* en ef þau eru beint undir div er það blátt */
+    div > em {
+      color: #00f;
+    }
+
+    /* div sem er systkini div fær 20px margin fyrir ofan sig */
+    div + div {
+      margin-top: 1em;
+      background-color: pink;
+    }
+
+    /* fyrsti stafur undir div.text verður 10px*2=20px */
+    div.text:first-letter {
+      font-size: 2em;
+    }
+
+    [lang="is"] {
+      color: #fff;
+    }
+
+    [lang="is"]::after {
+      content: ' (is)';
+    }
+
+    span:hover {
+      background-color: #0f0;
+    }
+
+    div.text:empty {
+      background-color: yellow;
+      color: black;
+    }
+
+    div.text:empty::before {
+      content: 'Tómt div';
+    }
+
+    div:not(.text) {
+      background-color: rebeccapurple;
+    }
+    </style>
+  </head>
+
+  <body>
+    <div>
+      <p>Halló <strong id="text">heimur</strong></p>
+    </div>
+
+    <div class="text">
+      <em>Lorem</em> <span lang="is">ipsum <em>dolor</em> sit amet</span>, consectetur adipiscing elit.
+    </div>
+
+    <div class="text">
+      <em>Lorem</em> <span lang="is">ipsum <em>dolor</em> sit amet</span>, consectetur adipiscing elit.
+    </div>
+
+    <div class="text"><!-- viljandi tómt --></div>
+  </body>
+</html>

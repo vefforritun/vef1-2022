@@ -16,11 +16,17 @@ Margir af fyrirlestrum voru teknir upp fyrir áfangann árið 2021 og geta því
   * [Git og GitHub](./03.git/)
   * [HTML](./04.html/)
 * [Vika 2](../vikur/vika-02.md)
-  * [HTML element](./05.html-element.html/)
-  * [HTML töflur listar og form](./06.html-toflur-listar-form.html/)
-  * [Að skrifa HTML](./07.ad-skrifa-html.html/)
+  * [HTML element](./05.html-element/)
+  * [HTML töflur listar og form](./06.html-toflur-listar-form/)
+  * [Að skrifa HTML](./07.ad-skrifa-html/)
   * [Aðgengi](./08.adgengi/)
   * [SEO](./09.seo/)
+* [Vika 3](../vikur/vika-03.md)
+  * [CSS](./10.css/)
+  * [Box model](./11.css-box-model/)
+  * [Cascade](./12.css-cascade/)
+  * [Visual formattind model](./13.css-visual-formatting/)
+  * [Letur og litir](./14.css-letur-litir/)
 
 ## Kennslubækur
 

@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8">
+    <title>Overflow</title>
+    <!--
+      Þetta dæmi skilgreinir CSS „inline“ til hægðarauka. Betra væri að vísa í
+      CSS skjal með <link rel="stylesheet" href="skjal.css">
+    -->
+    <style>
+    .box {
+      width: 100px;
+      height: 100px;
+
+      margin: 20px;
+      margin-bottom: 100px;
+      border: 1px solid #f00;
+      padding: 5px;
+    }
+
+    .box1 { overflow: visible; }
+    .box2 { overflow: hidden; }
+    .box3 { overflow: scroll; }
+    .box4 { overflow: auto; }
+    </style>
+  </head>
+
+  <body>
+    <!-- fyrsta box eins og við gerðum ráð fyrir í forritun -->
+    <div class="box box1">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
+
+    <!-- Þetta box fær síðan allt í einu miklu meiri texta. Ónei! -->
+    <div class="box box1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eleifend nunc non suscipit finibus. Proin non tincidunt nisl.</div>
+
+    <!-- overflow hidden mun fela texta og gera efnið okkar óaðgengilegt, auðveldari lausn en verri -->
+    <div class="box box2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eleifend nunc non suscipit finibus. Proin non tincidunt nisl.</div>
+
+    <!-- overflow scroll setur inn bæði láréttar og lóðréttar skrunstikur sem er ekki alltaf það sem við viljum -->
+    <div class="box box3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eleifend nunc non suscipit finibus. Proin non tincidunt nisl.</div>
+
+    <!-- overflow auto er oft besta lausnin -->
+    <div class="box box4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eleifend nunc non suscipit finibus. Proin non tincidunt nisl.</div>
+
+    <hr>
+
+    <style>
+    /* bónus! CSS _is_ awesome! */
+    .awesome {
+      margin-bottom: 2vw;
+      border: 1px solid #111;
+      padding: 5px;
+
+      /*
+      overflow: visible; er sjálfgefið og besta lausnin ef _ekki var hugsað um_
+      hvað gerist ef texti verður breiðari en skilgreind breidd á boxi.
+      Á sérstaklega við þegar við skoðum skalanlega (responsive) vefi, verðum að
+      hugsa um útltið heildstætt.
+      */
+      overflow: visible;
+      width: 9vw;
+
+      font-family: Helvetica, Arial, sans-serif;
+      font-size: 3rem;
+      text-transform: uppercase;
+    }
+
+    .hidden {
+      /* texti falinn og hugsanlega ólæsilegur! */
+      overflow: hidden;
+    }
+
+    .auto {
+      /* betra, fáum skrunstikur og útlit „heldur sér“ í takmarkaðri breidd */
+      overflow: auto;
+    }
+
+    .auto-width {
+      /* eða bara sleppa því að takmarka breidd og leysa á annan máta */
+      width: auto;
+    }
+    </style>
+    <div class="awesome">CSS is awesome</div>
+    <div class="awesome hidden">CSS is awesome</div>
+    <div class="awesome auto">CSS is awesome</div>
+    <div class="awesome auto-width">CSS is awesome</div>
+  </body>
+</html>
