@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8">
+    <title>Collapsing margins</title>
+    <!--
+      Þetta dæmi skilgreinir CSS „inline“ til hægðarauka. Betra væri að vísa í
+      CSS skjal með <link rel="stylesheet" href="skjal.css">
+    -->
+    <style>
+    /*
+    á milli tveggja p er aðeins 50px margin
+    ekki 50px+50px þar sem þau falla saman
+    */
+    p {
+      margin: 50px;
+    }
+
+    p.more { margin-bottom: 100px; }
+    /*
+    milli p.more og næsta p er 100px margin ekki 100px + 50px
+    einnig vegna þess að margin falla saman
+    */
+    </style>
+  </head>
+
+  <body>
+    <p>Fyrsta málsgrein.</p>
+    <p class="more">Önnur málsgrein.</p>
+    <p>Þriðja málsgrein.</p>
+  </body>
+</html>

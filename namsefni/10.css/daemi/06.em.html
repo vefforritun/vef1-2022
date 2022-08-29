@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8">
+    <title>em</title>
+    <!--
+      Þetta dæmi skilgreinir CSS „inline“ til hægðarauka. Betra væri að vísa í
+      CSS skjal með <link rel="stylesheet" href="skjal.css">
+    -->
+    <style>
+    html {
+      font-size: 24px;
+    }
+
+    /* texti innan div er nákvæmlega 12px */
+    div {
+      font-size: 12px;
+    }
+
+    /* texti í p undir div er 12px * 2 = 24px */
+    div p {
+      font-size: 2em;
+    }
+
+    /* texti í em undir p undir div er nákvæmlega 10px */
+    div p em {
+      font-size: 10px;
+    }
+
+    /*
+      texti í strong undir p undir div er:
+      12px * 2 * 1.5 = 36px
+    */
+    div p strong {
+      font-size: 1.5em;
+    }
+    </style>
+  </head>
+
+  <body>
+    <div>
+      Lorem ipsum
+      <p>Halló <em>öll</em> <strong>saman</strong></p>
+    </div>
+  </body>
+</html>
