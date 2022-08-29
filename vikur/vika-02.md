@@ -1,10 +1,10 @@
 # Vika 2, 29. ágúst–4. september 2022
 
-[Fyrirlestur 2.1: x](https://youtu.be/)
+[Fyrirlestur 2.1: HTML element (27:33)](https://youtu.be/oG68slYWsPY)
 
-[Fyrirlestur 2.2: y](https://youtu.be/)
+[Fyrirlestur 2.2: HTML töflur, form, meira git (44:21)](https://youtu.be/FnwlqPSVFKc)
 
-[Fyrirlestur 2.3: z](https://youtu.be/)
+[Fyrirlestur 2.3: Aðeins um aðgengi og SEO (14:46)](https://youtu.be/mn75tGhufQw)
 
 ## Námsefni
 
