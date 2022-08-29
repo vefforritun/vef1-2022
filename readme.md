@@ -1,4 +1,4 @@
-# Vefforritun 1, 2021
+# Vefforritun 1, 2022
 
 Hér má nálgast alla fyrirlestra, dæmi og verkefni í áfangagnum vefforritun 1 kenndan við HÍ haustið 2022.
 
