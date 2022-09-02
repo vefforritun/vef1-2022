@@ -32,10 +32,10 @@
   * [ ] [Cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
   * [ ] [Box model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
 * [ ] Fara yfir dæmi og fikta í þeim með _devtools_ (fyrir [Firefox](https://developer.mozilla.org/en-US/docs/Tools), [Chrome](https://developer.chrome.com/docs/devtools/), leitaðu að fyrir þinn vafra ef annar), sérstaklega:
-  * [ ] [Dæmi um letur-hlutfallslegar einingar](daemi/1.css/06.em.html)
-  * [ ] [Dæmi um gildi](daemi/3.cascade/01.values.html)
-  * [ ] [Dæmi um `display`](daemi/4.visual-formatting/01.display.html)
-  * [ ] [Dæmi um staðsetningar #2](daemi/4.visual-formatting/05.position2.html)
+  * [ ] [Dæmi um letur-hlutfallslegar einingar](../namsefni/10.css/daemi/06.em.html)
+  * [ ] [Dæmi um gildi](../namsefni/12.css-cascade/daemi/01.values.html)
+  * [ ] [Dæmi um `display`](../namsefni/13.css-visual-formatting/daemi/01.display.html)
+  * [ ] [Dæmi um staðsetningar #2](../namsefni/13.css-visual-formatting/daemi/05.position2.html)
 * [ ] Nota [CSS validation þjónustu W3C](https://jigsaw.w3.org/css-validator/)
 * Athuga og fletta upp eigindum á MDN þegar þið notið í fyrsta skipti
 * [ ] Skila [verkefni 1](https://github.com/vefforritun/vef1-2021-v1)
