@@ -38,5 +38,5 @@
   * [ ] [Dæmi um staðsetningar #2](../namsefni/13.css-visual-formatting/daemi/05.position2.html)
 * [ ] Nota [CSS validation þjónustu W3C](https://jigsaw.w3.org/css-validator/)
 * Athuga og fletta upp eigindum á MDN þegar þið notið í fyrsta skipti
-* [ ] Skila [verkefni 1](https://github.com/vefforritun/vef1-2021-v1)
+* [ ] Skila [verkefni 1](https://github.com/vefforritun/vef1-2022-v1)
 * [ ] Byrja á [verkefni 2](https://github.com/vefforritun/vef1-2022-v2)
