@@ -1,15 +1,10 @@
 # Visual formatting módel
 
-[Fyrirlestur: Box model](03.2.box-model.md), [vídeó (21:22)](https://youtu.be/L88XCwXuu5g)
+[Fyrirlestur: Visual formatting módel](1.visual-formatting.md), [vídeó (21:22)](https://youtu.be/7fIME1NFctE)
 
 ## Lesefni
 
 * [Bókin um vefforritun](https://bok.vefforritun.is/)
-  * [Kafli 9: CSS](https://bok.vefforritun.is/09.css.html)
-  * [Kafli 10: CSS málfræði](https://bok.vefforritun.is/10.css-malfraedi.html)
-  * [Kafli 11: Box model](https://bok.vefforritun.is/11.css-box-model.html)
-  * [Kafli 12: Sértækni & flóðið](https://bok.vefforritun.is/12.css-specifity-cascade.html)
-  * [Kafli 13: Að skrifa CSS](https://bok.vefforritun.is/13.css-best-practices.html)
   * [Kafli 14: Visual Formatting módel](https://bok.vefforritun.is/14.visual-formatting.html)
 * [Resilient Web Design, chapter 2: Materials](https://resilientwebdesign.com/chapter2/)
 

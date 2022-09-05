@@ -1,10 +1,10 @@
 # Vika 3, 5. september–11. september
 
-[Fyrirlestur 3.1: x](https://youtu.be/)
+[Fyrirlestur 3.1: Verkefni 2 (38:52)](https://youtu.be/fZ13SnZGTFE)
 
-[Fyrirlestur 3.2: y](https://youtu.be/)
+[Fyrirlestur 3.2: CSS (36:33)](https://youtu.be/1oL9tTSmftA)
 
-[Fyrirlestur 3.3: z](https://youtu.be/)
+[Fyrirlestur 3.3: CSS (10:28)](https://youtu.be/fpPG5oRb2zA)
 
 ## Námsefni
 
