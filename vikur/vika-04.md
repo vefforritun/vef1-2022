@@ -22,6 +22,6 @@
 * [ ] Skoða flexbox dæmi og efni vel, þetta er megin leiðin til að setja upp útlit í CSS
   * [ ] [MDN: Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
   * [ ] [CSS tricks: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-  * [ ] „Leikir“ sem útskýra hugtökin
+  * [ ] „Leikir“ sem útskýra hugtökin: [flexbox defense](http://www.flexboxdefense.com/), [flexbox froggy](https://flexboxfroggy.com/)
 * [ ] Skila [verkefni 2](https://github.com/vefforritun/vef1-2022-v2)
 * [ ] Byrja á [verkefni 3](https://github.com/vefforritun/vef1-2022-v3)
