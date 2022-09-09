@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8">
+    <title>clip-path</title>
+    <!--
+      Þetta dæmi skilgreinir CSS „inline“ til hægðarauka. Betra væri að vísa í
+      CSS skjal með <link rel="stylesheet" href="skjal.css">
+    -->
+    <style>
+    img {
+      margin: 1em;
+    }
+
+    img.circle {
+      clip-path: circle(30%);
+    }
+
+    img.ellipse {
+      clip-path: ellipse(400px 220px at 30% 40%);
+    }
+
+    img.polygon {
+      clip-path: polygon(50% 0, 100% 50%, 50% 100%, 0 50%);
+    }
+
+    img.path {
+      clip-path: path('M 280 280 L 0,85 A 5,5 0,0,1 690,15 L 540 150 z');
+    }
+
+    </style>
+  </head>
+  <body>
+    <img class="circle"  src="html5.png">
+
+    <img class="ellipse" src="html5.png">
+
+    <img class="polygon" src="html5.png">
+
+    <img class="path" src="html5.png">
+  </body>
+</html>
