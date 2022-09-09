@@ -1,5 +1,7 @@
 # Vika 4, 12. september–18. september
 
+Gestafyrirlestur, ekki tekinn upp.
+
 [Fyrirlestur 3.1: x](https://youtu.be/)
 
 [Fyrirlestur 3.2: y](https://youtu.be/)
