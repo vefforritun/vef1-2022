@@ -65,11 +65,11 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
   * [Sýnilausn](https://github.com/vefforritun/vef1-2022-v1-synilausn), gerð aðgengileg 7. september.
 * [Verkefni 2 (HTML #2)](https://github.com/vefforritun/vef1-2022-v2), setja upp HTML skjöl með efni, formum og töflum. Taka tillit til merkingarfræði, aðgengi og SEO.
   * Sett fyrir 5. september, skilist 13. september.
-  * [Kynning](https://youtu.be/)
+  * [Kynning](https://youtu.be/fZ13SnZGTFE)
   * [Sýnilausn](https://github.com/vefforritun/vef1-2022-v2-synilausn), gerð aðgengileg 14. september.
 * [Verkefni 3 (CSS #1)](https://github.com/vefforritun/vef1-2022-v3), fyrstu skref með CSS: box model, letur & litir, stærðir.
   * Sett fyrir 12. september, skilist 20. september.
-  * [Kynning](https://youtu.be/)
+  * [Kynning](https://youtu.be/GCs3G7HkRmA)
   * [Sýnilausn](https://github.com/vefforritun/vef1-2022-v3-synilausn), gerð aðgengileg 21. september.
 * [Verkefni 4 (CSS #2)](https://github.com/vefforritun/vef1-2022-v4), útlit með flexbox.
   * Sett fyrir 19. september, skilist 27. september.
