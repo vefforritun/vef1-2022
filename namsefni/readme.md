@@ -30,6 +30,10 @@ Margir af fyrirlestrum voru teknir upp fyrir áfangann árið 2021 og geta því
 * [Vika 4](../vikur/vika-04.md)
   * [CSS stuðningur](./15.css-studningur/)
   * [Flexbox](./16.css-flexbox/)
+* [Vika 5](../vikur/vika-05.md)
+  * [Skalanlegir vefir](./17.responsive/)
+  * [Hönnun](./18.design/)
+  * [Grid](./19.grid/)
 
 ## Kennslubækur
 
@@ -79,15 +83,14 @@ Allt lesefni áfangans samkvæmt lesáætlun:
 * Vika #5
   * [Bókin um vefforritun](https://bok.vefforritun.is/)
     * [Kafli 18: Skalanlegir vefir](https://bok.vefforritun.is/18.skalanlegir.html)
-    * [Kafli 19: Kvikun](https://bok.vefforritun.is/19.kvikun.html)
     * [Kafli 20: Hönnun](https://bok.vefforritun.is/20.honnun.html)
-    * [Kafli 21: Grid](https://bok.vefforritun.is/21.grid.html)
   * [Resilient Web Design, chapter 3: Visions](https://resilientwebdesign.com/chapter3/)
 * Vika #6
   * [Bókin um vefforritun](https://bok.vefforritun.is/)
+    * [Kafli 19: Kvikun](https://bok.vefforritun.is/19.kvikun.html)
+    * [Kafli 22: CSS í stærri verkefnum](https://bok.vefforritun.is/22.css-verkefni.html)
     * [Kafli 23: Tæki & tól](https://bok.vefforritun.is/23.taeki-tol.html)
     * [Kafli 24: NPM og almenn tæki & tól](https://bok.vefforritun.is/24.npm-taeki-tol.html)
-    * [Kafli 22: CSS í stærri verkefnum](https://bok.vefforritun.is/22.css-verkefni.html)
 * Vika #7
   * [Pro Git](https://git-scm.com/book/en/v2)
     * [Pro Git: Kafli 1](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)

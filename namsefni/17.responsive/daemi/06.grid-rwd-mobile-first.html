@@ -1,0 +1,171 @@
+
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8">
+    <title>Grid</title>
+    <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-size: clamp(1rem, 16px + 1vw, 4rem);
+    }
+
+    main {
+      /*
+      setjum eitt "gutter" vinsta og hægra megin til að efni leggist ekki
+      upp að viewport í minni upplausn
+      */
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+
+    /* stillingar fyrir grid */
+
+    .grid {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+      margin-left: -10px;
+      margin-right: -10px;
+    }
+
+    .col {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+
+    .col-12 {
+      width: 100%;
+    }
+
+    .col-sm-12 {
+      width: 100%;
+    }
+
+    .col-sm-6 {
+      width: 50%;
+    }
+
+    .col-sm-3 {
+      width: 25%;
+    }
+
+    .offset-sm-0 {
+      margin-left: 0;
+    }
+
+    /* frá og með 600px birtum við "desktop" útlit */
+
+    @media (min-width: 600px) {
+      .col-6 {
+        width: 50%;
+      }
+
+      .col-3 {
+        width: 25%;
+      }
+
+      .offset-3 {
+        margin-left: 25%;
+      }
+    }
+
+    /* aðrir stílar */
+
+    .box {
+      box-sizing: border-box;
+      margin-bottom: 30px;
+      padding: 1rem;
+      border: 1px solid #000;
+    }
+
+    :root {
+      --offset: 20px;
+      --max_width: 1200px;
+      --columns: 12;
+      --gutter: 20px;
+      --color: hsla(204, 80%, 72%, 0.25);
+      --repeating-width: calc(100% / var(--columns));
+      --column-width: calc((100% / var(--columns)) - var(--gutter));
+      --background-width: calc(100% + var(--gutter));
+      --background-columns: repeating-linear-gradient(
+        to right,
+        var(--color),
+        var(--color) var(--column-width),
+        transparent var(--column-width),
+        transparent var(--repeating-width)
+      );
+    }
+
+    /* Styling */
+    html {
+      position: relative;
+    }
+
+    html::before {
+      position: absolute;
+      top: 0; right: 0; bottom: 0; left: 0;
+      margin-right: auto;
+      margin-left: auto;
+      width: calc(100% - (2 * var(--offset)));
+      max-width: var(--max_width);
+      min-height: 100vh;
+      content: '';
+      background-image: var(--background-columns);
+      background-size: var(--background-width) 100%;
+      z-index: 1000;
+      pointer-events: none;
+    }
+    </style>
+  </head>
+  <body>
+    <main>
+      <div class="grid">
+        <div class="row">
+          <div class="col col-12">
+            <div class="box">100% dálkur</div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col col-6 col-sm-12">
+            <div class="box">50% dálkur almennt, 100% í minni upplausn</div>
+          </div>
+          <div class="col col-6 col-sm-12">
+            <div class="box">50% dálkur almennt, 100% í minni upplausn</div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col col-3 col-sm-6">
+            <div class="box">25% dálkur almennt, 50% í minni upplausn</div>
+          </div>
+          <div class="col col-3 col-sm-6">
+            <div class="box">25% dálkur almennt, 50% í minni upplausn</div>
+          </div>
+          <div class="col col-3 col-sm-6">
+            <div class="box">25% dálkur almennt, 50% í minni upplausn</div>
+          </div>
+          <div class="col col-3 col-sm-6">
+            <div class="box">25% dálkur almennt, 50% í minni upplausn</div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col col-3 col-sm-6 offset-3">
+            <div class="box">25% dálkur almennt, 50% í minni upplausn, byrjar frá 25%</div>
+          </div>
+          <div class="col col-6 col-sm-12">
+            <div class="box">50% dálkur almennt, 100% í minni upplausn</div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
