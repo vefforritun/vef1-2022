@@ -1,6 +1,10 @@
 # Vika 5, 19. september–25. september
 
-[Fyrirlestur 5.1, x](https://youtu.be/)
+[Fyrirlestur 5.1, CSS í verkefni 3 (39:50)](https://youtu.be/iuDrZdwfTfw)
+
+[Fyrirlestur 5.2, verkefni 4 frá því í fyrra, part 1 (28:48)](https://youtu.be/zkcusl-UKrk)
+
+[Fyrirlestur 5.3, verkefni 4 frá því í fyrra, part 2 (23:10)](https://youtu.be/ABlgpt3kG0c)
 
 ## Námsefni
 
