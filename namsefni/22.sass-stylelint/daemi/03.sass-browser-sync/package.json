@@ -1,0 +1,20 @@
+{
+  "name": "sass-brower-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "browser-sync": "browser-sync start --server --files index.html styles.css",
+    "sass": "sass styles.scss styles.css",
+    "sass-watch": "sass --watch *.scss styles.css",
+    "dev": "concurrently npm:sass-watch npm:browser-sync"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.5",
+    "concurrently": "^6.2.1",
+    "sass": "^1.42.1"
+  }
+}

@@ -1,0 +1,13 @@
+.box {
+  border: 1px solid transparent;
+  border-radius: 5px;
+  margin: calc(15px + 10%);
+  background-color: #2b9eab;
+}
+@media (min-width: 600px) {
+  .box {
+    width: 50%;
+  }
+}
+
+/*# sourceMappingURL=example.css.map */

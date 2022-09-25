@@ -1,0 +1,54 @@
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.button {
+  display: inline-block;
+  width: 100%;
+  max-width: 250px;
+  padding: 10px 5px;
+  margin: 0;
+  color: #000;
+  border: 1px solid #000;
+  transition: color 500ms ease;
+}
+.button:hover {
+  color: #0f0;
+}
+
+.list {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+@media (max-width: 1199px) {
+  .list {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+}
+.list__row {
+  display: flex;
+  margin-right: -10px;
+  margin-left: -10px;
+  flex-wrap: wrap;
+}
+@media (min-width: 600px) {
+  .list__row {
+    flex-wrap: nowrap;
+  }
+}
+.list__col {
+  width: 100%;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+@media (min-width: 600px) {
+  .list__col {
+    width: 50%;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+}
+
+/*# sourceMappingURL=styles.css.map */

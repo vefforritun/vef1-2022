@@ -1,0 +1,25 @@
+@use "sass:math";
+
+// svona komment virka
+$blue: #3bbfce;
+$gutter: 30px;
+$min-width: 600px;
+
+@mixin rounded($color: transparent) {
+  border: 1px solid $color;
+  border-radius: 5px;
+}
+
+.box {
+  @include rounded();
+
+  // eigum við breytu með virkja
+  margin: calc(#{math.div($gutter, 2)} + 10%);
+
+  // líka fyrir liti!
+  background-color: darken($blue, 10);
+
+  @media (min-width: $min-width) {
+    width: 50%;
+  }
+}

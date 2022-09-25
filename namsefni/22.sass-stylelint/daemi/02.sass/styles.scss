@@ -1,0 +1,12 @@
+// góð regla að geyma breytur og þess háttar í sér skrá
+@import "scss/config";
+
+// Setja upp layout, hér gætum við líka vísað í aðrar skrár til að skipta frekar upp
+main {
+  max-width: $max-width;
+  margin: 0 auto;
+}
+
+// Sækja stíla fyrir öll component
+@import "scss/button";
+@import "scss/list";

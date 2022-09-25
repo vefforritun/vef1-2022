@@ -1,0 +1,19 @@
+@use "sass:math";
+
+$max-width: 1200px;
+$gutter: 20px;
+
+@mixin row() {
+  display: flex;
+
+  margin-right: -1 * math.div($gutter, 2);
+  margin-left: -1 * math.div($gutter, 2);
+}
+
+@mixin columns($col: 1) {
+  // margföldum með "1%" til að breyta gildi í prósentu gildi
+  width: (math.div($col, 12) * 100) * 1%;
+
+  padding-right: math.div($gutter, 2);
+  padding-left: math.div($gutter, 2);
+}

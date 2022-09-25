@@ -1,0 +1,17 @@
+{
+  "name": "sass-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass styles.scss styles.css",
+    "sass-watch": "sass --watch *.scss styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.42.1"
+  }
+}

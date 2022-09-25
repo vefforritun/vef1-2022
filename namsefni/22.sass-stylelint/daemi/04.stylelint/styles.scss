@@ -1,0 +1,15 @@
+body {
+  color: blue;
+background-color: white;
+}
+
+.mjog {
+  font-size: 1rem;
+  &mikid {
+    margin: 10px a;
+    width: 100px;
+    &nesting {
+      height: 1ekkitil;
+    }
+  }
+}

@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8">
+    <title>clip-path</title>
+    <!--
+      Þetta dæmi skilgreinir CSS „inline“ til hægðarauka. Betra væri að vísa í
+      CSS skjal með <link rel="stylesheet" href="skjal.css">
+    -->
+    <style>
+    img {
+      margin: 1em;
+      transition: 500ms ease-in-out clip-path;
+    }
+
+    img.circle-alone {
+      clip-path: circle(100%);
+    }
+
+    img.circle-alone:hover {
+      clip-path: circle(0%);
+    }
+
+    div.circle img {
+      clip-path: circle(100%);
+    }
+
+    div.circle:hover img {
+      clip-path: circle(0%);
+    }
+
+    div.ellipse img {
+      clip-path: ellipse(400px 220px at 30% 40%);
+    }
+
+    div.ellipse:hover img {
+      clip-path: ellipse(0 0 at 30% 40%);
+    }
+
+    div.polygon img {
+      clip-path: polygon(50% 0, 100% 50%, 50% 100%, 0 50%);
+    }
+
+    div.polygon:hover img {
+      clip-path: polygon(0 0, 0 0, 0 0, 0 0);
+    }
+
+    div.path img {
+      clip-path: path('M 280 280 L 0,85 A 5,5 0,0,1 690,15 L 540 150 z');
+    }
+
+    div.path:hover img {
+      clip-path: path('M 0 0 L 0,85 A 5,5 0,0,1 690,15 L 540 150 z');
+    }
+    </style>
+  </head>
+  <body>
+    <img class="circle-alone" src="html5.png">
+
+    <div class="circle"><img src="html5.png"></div>
+
+    <div class="ellipse"><img src="html5.png"></div>
+
+    <div class="polygon"><img  src="html5.png"></div>
+
+    <div class="path"><img src="html5.png"></div>
+  </body>
+</html>

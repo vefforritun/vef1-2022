@@ -1,0 +1,4 @@
+{
+  "_comment": "Getum notað bæði fyrir css og scss!",
+  "extends": ["stylelint-config-standard", "stylelint-config-sass-guidelines"]
+}

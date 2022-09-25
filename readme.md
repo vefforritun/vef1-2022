@@ -11,8 +11,8 @@ Hér má nálgast alla fyrirlestra, dæmi og verkefni í áfangagnum vefforritun
 | 3    | 5. september  | CSS; box model; specificity og cascade; visual formatting; Letur & litir | HTML #2               | HTML #1              |
 | 4    | 12. september | Flexbox; CSS virkni & stuðningur; gestafyrirlestur um hönnun             | CSS #1                | HTML #2              |
 | 5    | 19. september | Skalanlegir vefir; hönnun; grid                                          | CSS #2                | CSS #1               |
-| 6    | 26. september | node.js & npm; Stylelint; Kvikun                                         | CSS #3, Hópverkefni 1 | CSS #2               |
-| 7    | 3. október    | Nánar um git; Sass; CSS í stærri verkefnum                               | CSS #4                | CSS #3               |
+| 6    | 26. september | node.js & npm; Sass & Stylelint; Kvikun                                  | CSS #3, Hópverkefni 1 | CSS #2               |
+| 7    | 3. október    | Nánar um git; CSS í stærri verkefnum                                     | CSS #4                | CSS #3               |
 | 8    | 10. október   | JavaScript: breytur, stýriskipanir, föll                                 |                       | CSS #4               |
 | 9    | 17. október   | Fylki, hlutir; Einingar; forritun á vef: DOM og atburðir                 | JS #1                 |                      |
 | 10   | 24. október   | Ósamstillt forritun; HTTP & form; Ajax; eslint & prettier                | JS #2, Hópverkefni 2  | JS #1, Hópverkefni 1 |
@@ -52,6 +52,10 @@ Fyrirlestrar eru haldnir 15:00-17:20 á mánudögum.
   * CSS; box model; specificity og cascade; visual formatting; Letur & litir
 * [Vika 4, 12. september–18. september](vikur/vika-04.md)
   * Flexbox; CSS virkni & stuðningur; gestafyrirlestur um hönnun
+* [Vika 5, 19. september–25. september](vikur/vika-05.md)
+  * Skalanlegir vefir; hönnun; grid
+* [Vika 6, 26. september–2. október](vikur/vika-06.md)
+  * node.js & npm; Sass & Stylelint; Kvikun
 
 ## Verkefni
 
@@ -73,7 +77,6 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
   * [Sýnilausn](https://github.com/vefforritun/vef1-2022-v3-synilausn), gerð aðgengileg 21. september.
 * [Verkefni 4 (CSS #2)](https://github.com/vefforritun/vef1-2022-v4), útlit með flexbox.
   * Sett fyrir 19. september, skilist 27. september.
-  * [Kynning](https://youtu.be/)
   * [Sýnilausn](https://github.com/vefforritun/vef1-2022-v4-synilausn), gerð aðgengileg 28. september.
 * [Verkefni 5 (CSS #3)](https://github.com/vefforritun/vef1-2022-v5), skalanlegt útlit, Stylelint.
   * Sett fyrir 26. september, skilist 4. október.
