@@ -34,6 +34,10 @@ Margir af fyrirlestrum voru teknir upp fyrir áfangann árið 2021 og geta því
   * [Skalanlegir vefir](./17.responsive/)
   * [Hönnun](./18.design/)
   * [Grid](./19.grid/)
+* [Vika 6](../vikur/vika-06.md)
+  * [Kvikun](./20.kvikun/)
+  * [Tæki og tól](./21.taeki-tol/)
+  * [Sass og Stylelint](./22.sass-stylelint/)
 
 ## Kennslubækur
 

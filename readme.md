@@ -40,7 +40,7 @@ Hvert vikublað kemur inn í seinasta lagi föstudegi vikunni áður og samanste
 
 Fyrirlestrar eru haldnir 15:00-17:20 á mánudögum.
 
-[Upptökur af öllum fyrirlestrum eru settar inn á YouTube]((https://www.youtube.com/playlist?list=PLRj-ccg8iozztWvIH3n6647KQuJgg4mpi)) eftir það, í seinasta lagi daginn eftir.
+[Upptökur af öllum fyrirlestrum eru settar inn á YouTube](https://www.youtube.com/playlist?list=PLRj-ccg8iozztWvIH3n6647KQuJgg4mpi) eftir það, í seinasta lagi daginn eftir.
 
 ### Vikur
 
@@ -55,7 +55,7 @@ Fyrirlestrar eru haldnir 15:00-17:20 á mánudögum.
 * [Vika 5, 19. september–25. september](vikur/vika-05.md)
   * Skalanlegir vefir; hönnun; grid
 * [Vika 6, 26. september–2. október](vikur/vika-06.md)
-  * node.js & npm; Sass & Stylelint; Kvikun
+  * Kvikun; node.js & npm; Sass & Stylelint
 
 ## Verkefni
 
@@ -78,11 +78,11 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
 * [Verkefni 4 (CSS #2)](https://github.com/vefforritun/vef1-2022-v4), útlit með flexbox.
   * Sett fyrir 19. september, skilist 27. september.
   * [Sýnilausn](https://github.com/vefforritun/vef1-2022-v4-synilausn), gerð aðgengileg 28. september.
-* [Verkefni 5 (CSS #3)](https://github.com/vefforritun/vef1-2022-v5), skalanlegt útlit, Stylelint.
+* [Verkefni 5 (CSS #3)](https://github.com/vefforritun/vef1-2022-v5), skalanlegt útlit og grid.
   * Sett fyrir 26. september, skilist 4. október.
-  * [Kynning](https://youtu.be/)
+  * [Kynning](https://youtu.be/LSkJn8440xI)
   * [Sýnilausn](https://github.com/vefforritun/vef1-2022-v5-synilausn), gerð aðgengileg 5. október.
-* [Verkefni 6 (CSS #4)](https://github.com/vefforritun/vef1-2022-v6), útlit með grid, kvikun og Sass.
+* [Verkefni 6 (CSS #4)](https://github.com/vefforritun/vef1-2022-v6), útlit með tólum frá npm.
   * Sett fyrir 3. október, skilist 11. október.
   * [Kynning](https://youtu.be/)
   * [Sýnilausn](https://github.com/vefforritun/vef1-2022-v6-synilausn), gerð aðgengileg 12. október.
@@ -106,8 +106,8 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
 ### Hópverkefni
 
 * [Hópverkefni 1](https://github.com/vefforritun/vef1-2022-h1).
-  * Sett fyrir 26. september, skilist 27. október.
-  * [Kynning](https://youtu.be/)
+  * Sett fyrir 26. september, skilist 30. október.
+  * [Kynning](https://youtu.be/AMb-bmaRlU0)
   * Sýnilausn ekki gefin út
 * [Hópverkefni 1](https://github.com/vefforritun/vef1-2022-h2).
   * Sett fyrir 24. október, skilist 25. nóvember.

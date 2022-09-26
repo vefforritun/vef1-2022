@@ -1,6 +1,8 @@
 # Vika 6, 26. september–2. október
 
-[Fyrirlestur 6.1, ()](https://youtu.be/)
+[Fyrirlestur 6.1, (33:06)](https://youtu.be/nQ9r0CKZy_c)
+
+[Fyrirlestur 6.2 (31:39)](https://youtu.be/L-AyFdOZ2Uc)
 
 ## Námsefni
 
