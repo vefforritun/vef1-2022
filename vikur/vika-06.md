@@ -6,8 +6,6 @@
 
 ## Námsefni
 
-node.js & npm; Stylelint; Kvikun
-
 * [Kvikun](../namsefni/20.kvikun/)
 * [Tæki & tól](../namsefni/21.taeki-tol/)
 * [Stylelint](../namsefni/22.stylelint/)

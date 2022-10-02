@@ -8,7 +8,7 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp, eða prófa meðfram 
 
 Margir af fyrirlestrum voru teknir upp fyrir áfangann árið 2021 og geta því verið í annari röð en sett er upp hér.
 
-## Lesefni
+## Námsefni eftir vikum
 
 * [Vika 1](../vikur/vika-01.md)
   * [Kynning](./01.kynning/)
@@ -38,6 +38,9 @@ Margir af fyrirlestrum voru teknir upp fyrir áfangann árið 2021 og geta því
   * [Kvikun](./20.kvikun/)
   * [Tæki og tól](./21.taeki-tol/)
   * [Sass og Stylelint](./22.sass-stylelint/)
+* [Vika 7](../vikur/vika-07.md)
+  * [CSS í stærri verkefnum](./23.css-verkefni/)
+  * [Git og GitHub](./03.git/), aftur
 
 ## Kennslubækur
 
