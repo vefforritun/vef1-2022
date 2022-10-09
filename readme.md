@@ -13,7 +13,7 @@ Hér má nálgast alla fyrirlestra, dæmi og verkefni í áfangagnum vefforritun
 | 5    | 19. september | Skalanlegir vefir; hönnun; grid                                          | CSS #2                | CSS #1               |
 | 6    | 26. september | node.js & npm; Sass & Stylelint; Kvikun                                  | CSS #3, Hópverkefni 1 | CSS #2               |
 | 7    | 3. október    | Nánar um git; CSS í stærri verkefnum                                     | CSS #4                | CSS #3               |
-| 8    | 10. október   | JavaScript: breytur, stýriskipanir, föll                                 |                       | CSS #4               |
+| 8    | 10. október   | JavaScript: gildi, týpur, virkjar, stýriskipanir, föll                   |                       | CSS #4               |
 | 9    | 17. október   | Fylki, hlutir; Einingar; forritun á vef: DOM og atburðir                 | JS #1                 |                      |
 | 10   | 24. október   | Ósamstillt forritun; HTTP & form; Ajax; eslint & prettier                | JS #2, Hópverkefni 2  | JS #1, Hópverkefni 1 |
 | 11   | 31. október   | Tæki & tól; Villumeðhöndlun & reglulegar segðir; Fallaforritun           | JS #3                 | JS #2                |
@@ -56,6 +56,10 @@ Fyrirlestrar eru haldnir 15:00-17:20 á mánudögum.
   * Skalanlegir vefir; hönnun; grid
 * [Vika 6, 26. september–2. október](vikur/vika-06.md)
   * Kvikun; node.js & npm; Sass & Stylelint
+* [Vika 7, 3. október–9. október](vikur/vika-07.md)
+  * Nánar um git; CSS í stærri verkefnum
+* [Vika 8, 10. október–16. október](vikur/vika-08.md)
+  * JavaScript: gildi, týpur, virkjar, stýriskipanir, föll
 
 ## Verkefni
 

@@ -1,7 +1,5 @@
 # Vika 7, 2. október–9. október
 
-[Fyrirlestur 7.1, ()](https://youtu.be/)
-
 ## Námsefni
 
 * [CSS í stærri verkefnum](../namsefni/23.css-verkefni/)

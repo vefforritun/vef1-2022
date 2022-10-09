@@ -41,6 +41,10 @@ Margir af fyrirlestrum voru teknir upp fyrir áfangann árið 2021 og geta því
 * [Vika 7](../vikur/vika-07.md)
   * [CSS í stærri verkefnum](./23.css-verkefni/)
   * [Git og GitHub](./03.git/), aftur
+* [Vika 8](../vikur/vika-08.md)
+  * [JavaScript gildi, týpur og virkjar](./24.js-gildi-typur-virkjar/)
+  * [JavaScript forrit](./25.js-forrit/)
+  * [JavaScript föll](./26.js-foll/)
 
 ## Kennslubækur
 
@@ -105,28 +109,27 @@ Allt lesefni áfangans samkvæmt lesáætlun:
     * [Pro Git: Kafli 3](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
     * [Pro Git: Kafli 6, undirkaflar 6.1, 6.2 og 6.3](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
     * [Pro Git: Kafli 7, undirkaflar 7.3 og 7.7](https://git-scm.com/book/en/v2/Git-Tools-Stashing-and-Cleaning)
-* Vika #8
   * [Resilient Web Design, chapter 4: Languages](https://resilientwebdesign.com/chapter4/)
-  * [Resilient Web Design, chapter 5: Layers](https://resilientwebdesign.com/chapter5/)
-* Vika #9
+* Vika #8
   * [Eloquent JavaScript, kafli 1: Values, Types, and Operators](https://eloquentjavascript.net/01_values.html)
   * [Eloquent JavaScript, kafli 2: Program Structure](https://eloquentjavascript.net/02_program_structure.html)
   * [Eloquent JavaScript, kafli 3: Functions](https://eloquentjavascript.net/03_functions.html)
   * [Eloquent JavaScript, kafli 4: Data Structures: Objects and Arrays](https://eloquentjavascript.net/04_data.html)
-* Vika #10
+  * [Resilient Web Design, chapter 5: Layers](https://resilientwebdesign.com/chapter5/)
+* Vika #9
   * [Eloquent JavaScript, kafli 10: Modules](https://eloquentjavascript.net/10_modules.html)
   * [Eloquent JavaScript, kafli 11: Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
   * [Eloquent JavaScript, kafli 13: JavaScript and the Browser](https://eloquentjavascript.net/13_browser.html)
   * [Eloquent JavaScript, kafli 14: The Document Object Model](https://eloquentjavascript.net/14_dom.html)
   * [Eloquent JavaScript, kafli 15: Handling Events](https://eloquentjavascript.net/15_event.html)
   * [Resilient Web Design, chapter 6: Steps](https://resilientwebdesign.com/chapter6/)
-* Vika #11
+* Vika #10
   * [Eloquent JavaScript, kafli 8: Bugs and Errors](https://eloquentjavascript.net/08_error.html)
   * [Eloquent JavaScript, kafli 9: Regular Expressions](https://eloquentjavascript.net/09_regexp.html)
   * [Eloquent JavaScript, kafli 18: HTTP and Forms](https://eloquentjavascript.net/18_http.html)
-* Vika #12
+* Vika #11
   * [Eloquent JavaScript, kafli 5: Higher-order Functions](https://eloquentjavascript.net/05_higher_order.html)
   * [Resilient Web Design, chapter 7: Challenges](https://resilientwebdesign.com/chapter7/)
-* Vika #13
+* Vika #12
   * [Eloquent JavaScript, kafli 6: The Secret Life of Objects](https://eloquentjavascript.net/06_object.html)
   * [Eloquent JavaScript, kafli 17: Drawing on Canvas](https://eloquentjavascript.net/17_canvas.html)
