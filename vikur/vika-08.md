@@ -1,5 +1,9 @@
 # Vika 8, 10. október–16. október
 
+[Fyrirlestur 8.1: Tæki og tól, part 1](https://youtu.be/x3fpyJRrFSA)
+[Fyrirlestur 8.2: Tæki og tól, part 2](https://youtu.be/H90nRI31GDY)
+[Fyrirlestur 8.3: JavaScript inngangur](https://youtu.be/5fZMsJWX6Sw)
+
 ## Námsefni
 
 * [JavaScript gildi, týpur og virkjar](../namsefni/24.js-gildi-typur-virkjar/)
