@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8">
+    <title>Elipsuköttur</title>
+    <style>
+      div {
+        margin: 80px auto;
+        max-width: 800px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div>
+      <img src="cat.png" style="position: relative">
+    </div>
+    <script>
+      const cat = document.querySelector('img');
+      let angle = Math.PI / 2;
+
+      function animate(time, lastTime) {
+        if (lastTime != null) {
+          angle += (time - lastTime) * 0.001;
+        }
+
+        // Það ætti ekki að nota top og left, mun verri performance
+        // cat.style.top = `${(Math.sin(angle) * 20)}px`;
+        // cat.style.left = `${(Math.cos(angle) * 800)}px`;
+
+        cat.style.transform = `translateY(${(Math.sin(angle) * 20)}px)
+                               translateX(${(Math.cos(angle) * 200)}px)`;
+        requestAnimationFrame((newTime) => animate(newTime, time));
+      }
+      requestAnimationFrame(animate);
+    </script>
+  </body>
+</html>

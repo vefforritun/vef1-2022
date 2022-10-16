@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8">
+    <title>Hjálparfall</title>
+  </head>
+  <body>
+    <script>
+    function el(name, ...children) {
+      const element = document.createElement(name);
+
+      for (const child of children) {
+        if (typeof child === 'string') {
+          element.appendChild(document.createTextNode(child));
+        } else {
+          element.appendChild(child);
+        }
+      }
+
+      return element;
+    }
+
+    document.body.append(
+      el('div',
+        el('p', 'Halló heimur!'),
+        el('ul',
+          el('li', 'einn'),
+          el('li', 'tveir'),
+          el('li', 'þrír'),
+        ),
+      ),
+    );
+    </script>
+  </body>
+</html>

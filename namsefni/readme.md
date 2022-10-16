@@ -45,6 +45,11 @@ Margir af fyrirlestrum voru teknir upp fyrir áfangann árið 2021 og geta því
   * [JavaScript gildi, týpur og virkjar](./24.js-gildi-typur-virkjar/)
   * [JavaScript forrit](./25.js-forrit/)
   * [JavaScript föll](./26.js-foll/)
+* [Vika 9](../vikur/vika-09.md)
+  * [Fylki & hlutir](./27.fylki-hlutir/)
+  * [Forritun á vef, DOM](./28.browser-dom/)
+  * [Atburðir](./29.events/)
+  * [Einingar](./30.modules/)
 
 ## Kennslubækur
 

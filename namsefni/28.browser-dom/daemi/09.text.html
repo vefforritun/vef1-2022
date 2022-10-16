@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8">
+    <title>texti nóða</title>
+  </head>
+  <body>
+    <div class="textContent">Box #1</div>
+
+    <div class="innerText">Box #2</div>
+
+    <div class="innerHTML">Box #3</div>
+
+    <script>
+    // Skrifar út allan texta, líka innan <script>
+    console.log('document.body.textContent', document.body.textContent);
+
+    // Skrifar út allan texta sem er læsilegur, ekki innan <script>
+    console.log('document.body.innerText', document.body.innerText);
+
+    // Skrifar út allt HTML í body
+    console.log('document.body.innerHTML', document.body.innerHTML);
+
+    document.querySelector('.textContent').textContent = '<strong>changed</strong>';
+    document.querySelector('.innerText').innerText = '<strong>changed</strong>';
+    document.querySelector('.innerHTML').innerHTML = '<strong>changed</strong>';
+    </script>
+  </body>
+</html>

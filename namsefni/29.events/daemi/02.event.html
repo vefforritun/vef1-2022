@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8">
+    <title>Upplýsingar úr atburð</title>
+    <style>
+    div {
+      background-color: lightblue;
+      padding: 20px;
+    }
+    </style>
+  </head>
+  <body>
+    <div>
+      <input type="text">
+      <a href="http://hi.is">hi.is</a>
+      <input type="range">
+    </div>
+
+    <script>
+    const div = document.querySelector('div');
+    const input = document.querySelector('input[type=text]');
+    const range = document.querySelector('input[type=range]');
+    const a = document.querySelector('a');
+
+    div.addEventListener('click', (e) => {
+      const { target } = e;
+      console.log('smellt innan div', 'target = ', target);
+    });
+
+    input.addEventListener('click', (e) => {
+      const { target } = e;
+      console.log('smellt innan input', 'target = ', target);
+
+      // ef við viljum að atburður fljóti ekki upp köllum við í `stopPropagation`
+      e.stopPropagation();
+    });
+
+    input.addEventListener('keyup', (e) => {
+      const { keyCode, key } = e;
+      console.log(`input keyup, keyCode = ${keyCode}, key = ${key}`, e);
+    });
+
+    input.addEventListener('input', (e) => {
+      console.log(`input input, target = ${e.target}, value = ${e.target.value}`);
+    });
+
+    input.addEventListener('change', (e) => {
+      console.log(`input change, target = ${e.target}, value = ${e.target.value}`);
+    });
+
+    range.addEventListener('input', (e) => {
+      console.log(`range input, target = ${e.target}, value = ${e.target.value}`);
+    });
+
+    range.addEventListener('change', (e) => {
+      console.log(`range change, target = ${e.target}, value = ${e.target.value}`);
+    });
+
+    a.addEventListener('click', (e) => {
+      // ef við viljum ekki að sjálfgefna hegðun keyri
+      // köllum við í `preventDefault`
+      e.preventDefault();
+
+      console.log('neibb');
+    });
+    </script>
+  </body>
+</html>

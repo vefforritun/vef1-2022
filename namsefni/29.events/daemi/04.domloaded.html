@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8">
+    <title>Ýtt á takka – DOMContentLoaded útgáfa</title>
+    <script>
+    console.log('Keyrt áður en DOM tilbúið!', document.querySelector('button'));
+    </script>
+  </head>
+  <body>
+    <script>
+    function setup() {
+      const element = document.querySelector('button');
+      element.addEventListener('click', () => {
+        console.log('Ýtt á takka!');
+      });
+    }
+
+    // Kóði áður en takki verður til í DOM, en í lagi þar sem við keyrum
+    // setup þegar DOM er tilbúið
+    document.addEventListener('DOMContentLoaded', setup);
+
+    // Skoðum líka hvað gerist við `readystatechange`
+    document.addEventListener('readystatechange', () => {
+      console.log('readyState = ', document.readyState);
+    });
+    </script>
+
+    <button>Takki</button>
+  </body>
+</html>

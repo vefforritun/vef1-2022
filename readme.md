@@ -60,6 +60,8 @@ Fyrirlestrar eru haldnir 15:00-17:20 á mánudögum.
   * Nánar um git; CSS í stærri verkefnum
 * [Vika 8, 10. október–16. október](vikur/vika-08.md)
   * JavaScript: gildi, týpur, virkjar, stýriskipanir, föll
+* [Vika 9, 17.–23. október](vikur/vika-09.md)
+  * Fylki, hlutir; Einingar; forritun á vef: DOM og atburðir
 
 ## Verkefni
 
