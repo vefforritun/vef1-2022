@@ -93,7 +93,7 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
   * [Kynning](https://youtu.be/)
   * [Sýnilausn](https://github.com/vefforritun/vef1-2022-v6-synilausn), gerð aðgengileg 12. október.
 * [Verkefni 7 (JS #1)](https://github.com/vefforritun/vef1-2022-v7), JavaScript forritunarmálið.
-  * Sett fyrir 10. október, skilist 18. október.
+  * Sett fyrir 17. október, skilist 25. október.
   * [Kynning](https://youtu.be/)
   * [Sýnilausn](https://github.com/vefforritun/vef1-2022-v7-synilausn), gerð aðgengileg 19. október.
 * [Verkefni 8 (JS #2)](https://github.com/vefforritun/vef1-2022-v8), forritun á vef, DOM og atburðir.
