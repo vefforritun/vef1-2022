@@ -1,5 +1,9 @@
 # Vika 9, 17.–23. október
 
+[Fyrirlestur 9.1: JavaScript forrit og föll, part 1 (27:36)](https://youtu.be/4Ccm-plguVw)
+
+[Fyrirlestur 9.2: JavaScript forrit og föll, part 2 (24:24)](https://youtu.be/X2eTTTLe5m4)
+
 ## Námsefni
 
 * [Fylki & hlutir](../namsefni/27.fylki-hlutir/)
@@ -20,6 +24,6 @@
 
 * [ ] Skoða DOM dæmi vel
 * [ ] Skoða events dæmi vel
-* [ ] Skoða [JavaScript modules dæmi](daemi/4.modules/04.javascript-modules) vel
+* [ ] Skoða JavaScript modules dæmi
 * [ ] Byrja á [verkefni 7](https://github.com/vefforritun/vef1-2022-v7)
 * [ ] Halda áfram með [hópverkefni 1](https://github.com/vefforritun/vef1-2022-h1)

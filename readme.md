@@ -15,7 +15,7 @@ Hér má nálgast alla fyrirlestra, dæmi og verkefni í áfangagnum vefforritun
 | 7    | 3. október    | Nánar um git; CSS í stærri verkefnum                                     | CSS #4                | CSS #3               |
 | 8    | 10. október   | JavaScript: gildi, týpur, virkjar, stýriskipanir, föll                   |                       | CSS #4               |
 | 9    | 17. október   | Fylki, hlutir; Einingar; forritun á vef: DOM og atburðir                 | JS #1                 |                      |
-| 10   | 24. október   | Ósamstillt forritun; HTTP & form; Ajax; eslint & prettier                | JS #2, Hópverkefni 2  | JS #1, Hópverkefni 1 |
+| 10   | 24. október   | Ósamstillt forritun; HTTP & form; Ajax;                                  | JS #2, Hópverkefni 2  | JS #1, Hópverkefni 1 |
 | 11   | 31. október   | Tæki & tól; Villumeðhöndlun & reglulegar segðir; Fallaforritun           | JS #3                 | JS #2                |
 | 12   | 7. nóvember   | Hlutir; HTML5 og Web APIs; Prófanir                                      | JS #4                 | JS #3                |
 | 13   | 14. nóvember  | Buffer                                                                   |                       | JS #4                |
@@ -62,6 +62,8 @@ Fyrirlestrar eru haldnir 15:00-17:20 á mánudögum.
   * JavaScript: gildi, týpur, virkjar, stýriskipanir, föll
 * [Vika 9, 17.–23. október](vikur/vika-09.md)
   * Fylki, hlutir; Einingar; forritun á vef: DOM og atburðir
+* [Vika 10, 24.–30. október](vikur/vika-10.md)
+  * Ósamstillt forritun; HTTP & form; Ajax
 
 ## Verkefni
 
@@ -90,11 +92,10 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
   * [Sýnilausn](https://github.com/vefforritun/vef1-2022-v5-synilausn), gerð aðgengileg 5. október.
 * [Verkefni 6 (CSS #4)](https://github.com/vefforritun/vef1-2022-v6), útlit með tólum frá npm.
   * Sett fyrir 3. október, skilist 11. október.
-  * [Kynning](https://youtu.be/)
   * [Sýnilausn](https://github.com/vefforritun/vef1-2022-v6-synilausn), gerð aðgengileg 12. október.
 * [Verkefni 7 (JS #1)](https://github.com/vefforritun/vef1-2022-v7), JavaScript forritunarmálið.
   * Sett fyrir 17. október, skilist 25. október.
-  * [Kynning](https://youtu.be/)
+  * [Kynning](https://youtu.be/I5Lvm6Wh3so)
   * [Sýnilausn](https://github.com/vefforritun/vef1-2022-v7-synilausn), gerð aðgengileg 19. október.
 * [Verkefni 8 (JS #2)](https://github.com/vefforritun/vef1-2022-v8), forritun á vef, DOM og atburðir.
   * Sett fyrir 24. október, skilist 1. nóvember.

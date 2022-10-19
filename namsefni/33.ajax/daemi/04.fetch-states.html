@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8">
+    <title>fetch</title>
+  </head>
+
+  <body>
+    <script>
+    /**
+     * Framhald af 03.fetch.html dæmi.
+     * Hvað ef eitthvað klikkar eða tekur tíma?
+     */
+    // Setjum villu í slóð til að fá villu í kalli á þjónustu
+    const baseUrl = 'https://app.straeto.is';
+    const url = '/pele/api/v1/areas/is.json';
+
+    /**
+     * Sækir gögn frá þjónustu
+     */
+    async function fetchApi(serviceUrl) {
+      // Fakeum hægagang
+      return new Promise((resolve, reject) => {
+        setTimeout(async () => {
+          try {
+            const result = await fetch(serviceUrl);
+
+            if (!result.ok) {
+              throw new Error('result not ok');
+            }
+
+            const json = await result.json();
+
+            // af kommenta næsta til að prófa „tóma svarið“
+            // return resolve({});
+
+            return resolve(json);
+          } catch (e) {
+            console.warn('unable to fetch', e);
+            return reject(e);
+          }
+        }, 2000);
+      });
+    }
+
+    /**
+     * Hjálparfall sem býr til element fyrir hverja strætó leið
+     */
+    function createArea(name, buses) {
+      const section = document.createElement('section');
+      const title = document.createElement('h2');
+      title.textContent = name;
+      section.appendChild(title);
+      const busesEl = document.createElement('p');
+      busesEl.textContent = buses;
+      section.appendChild(busesEl);
+      return section;
+    }
+
+    /**
+     * Þar sem stuðningur við „top-level await“ er ekki almennt kominn
+     * þá köllum við í „main“ fall sem er async.
+     */
+    async function main() {
+      const container = document.body;
+      const straetoUrl = new URL(url, baseUrl);
+
+      let result;
+
+      // Einfaldasta loading state, setjum textann...
+      container.textContent = 'Sæki gögn...';
+
+      try {
+        result = await fetchApi(straetoUrl.href);
+      } catch (e) {
+        result = null;
+      }
+      // ...og hreinsum þegar svar komið
+      container.textContent = '';
+
+      // Er svarið OK?
+      if (result) {
+        // og gögn í svarinu?
+        if (result.areas) {
+          for (const area of result.areas) {
+            const areaEl = createArea(area.area, area.buses.join(', '));
+            container.appendChild(areaEl);
+          }
+        } else {
+          container.textContent = 'Engin gögn í svari';
+        }
+      } else {
+        container.textContent = 'Villa kom upp!';
+      }
+    }
+
+    main();
+    </script>
+  </body>
+</html>

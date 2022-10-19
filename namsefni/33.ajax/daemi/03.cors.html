@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8">
+    <title>cors</title>
+  </head>
+
+  <body>
+    <script>
+    const url = 'https://ugla.hi.is/Proftafla/View/ajax.php?sid=2027&a=getProfSvids&proftaflaID=143&svidID=5&notaVinnuToflu=0';
+
+    fetch(url)
+      .then((data) => console.log(data))
+      .catch((error) => console.error(error));
+    </script>
+  </body>
+</html>

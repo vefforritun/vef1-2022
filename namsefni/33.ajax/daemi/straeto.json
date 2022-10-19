@@ -1,0 +1,433 @@
+{
+  "status": 0,
+  "message": "",
+  "areas": [
+    {
+      "id": 1,
+      "area": "Höfuðborgarsvæðið",
+      "isRural": false,
+      "buses": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "21",
+        "22",
+        "22",
+        "23",
+        "24",
+        "27",
+        "28",
+        "29",
+        "31",
+        "35",
+        "36"
+      ],
+      "detailedBuses": [
+        {
+          "number": "1",
+          "name": "Hlemmur » Kópavogur » Garðabær » Fjörður » Vellir"
+        },
+        {
+          "number": "2",
+          "name": "Hlemmur » Grensás » Hamraborg » Smáralind » Salir » Mjódd"
+        },
+        {
+          "number": "3",
+          "name": "Hlemmur » Kringlan » Mjódd » Sel » Fell » Hólar » Mjódd"
+        },
+        {
+          "number": "4",
+          "name": "Hlemmur » Kringlan » Hamraborg » Mjódd » Hólar » Fell » Sel » Mjódd"
+        },
+        {
+          "number": "5",
+          "name": "(Nauthóll) » BSÍ » Hlemmur » Ártún » Norðlingaholt"
+        },
+        {
+          "number": "6",
+          "name": "Hlemmur » Kringlan » Ártún » Egilshöll"
+        },
+        {
+          "number": "7",
+          "name": "Egilshöll » Staðahverfi » Helgafellsland » Leirvogstunga"
+        },
+        {
+          "number": "8",
+          "name": "Nauthóll » BSÍ/Landspitalinn"
+        },
+        {
+          "number": "11",
+          "name": "Mjódd » Hlemmur » Seltjarnarnes"
+        },
+        {
+          "number": "12",
+          "name": "Skerjafjörður » Hlemmur » Mjódd » Ártún"
+        },
+        {
+          "number": "13",
+          "name": "Sléttuvegur » Hlemmur » Lækjartorg » Öldugrandi"
+        },
+        {
+          "number": "14",
+          "name": "Grandi » Hlemmur » Vogar » Verzló"
+        },
+        {
+          "number": "15",
+          "name": "Mosfellsbær » Ártún » Hlemmur » Vesturbær"
+        },
+        {
+          "number": "16",
+          "name": "Hlemmur » Sæbraut » Árbær » Hádegismóar"
+        },
+        {
+          "number": "17",
+          "name": "Hlemmur » Sogavegur » Mjódd » Breiðholt"
+        },
+        {
+          "number": "18",
+          "name": "Spöngin » Grafarholt » Ártún » Bústaðav. » Hlemmur"
+        },
+        {
+          "number": "19",
+          "name": "Kaplakriki » Hjallabraut » Fjörður » Ásland » Ásvallalaug"
+        },
+        {
+          "number": "21",
+          "name": "Háholt » Fjörður » Kauptún » Smáralind » Mjódd"
+        },
+        {
+          "number": "22",
+          "name": "Ásgarður » Urriðaholt » Ásgarður"
+        },
+        {
+          "number": "22",
+          "name": "Ásgarður » Urriðaholt » Ásgarður"
+        },
+        {
+          "number": "23",
+          "name": "Ásgarður » Álftanes » Ásgarður"
+        },
+        {
+          "number": "24",
+          "name": "Spöngin » Ártún » Mjódd » Smáralind » Garðabær"
+        },
+        {
+          "number": "27",
+          "name": "Háholt » Laxnes » Háholt"
+        },
+        {
+          "number": "28",
+          "name": "Hamraborg » Lindir » Salahverfi » Dalaþing"
+        },
+        {
+          "number": "29",
+          "name": "Háholt » Kjalarnes"
+        },
+        {
+          "number": "31",
+          "name": "Gufunesbær » Hamrar » Fjallkonuvegur » Hús » Egilshöll"
+        },
+        {
+          "number": "35",
+          "name": "Hamraborg » Kársnes » Engihjalli » Hamraborg"
+        },
+        {
+          "number": "36",
+          "name": "Hamraborg » Engihjalli » Kársnes » Hamraborg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "area": "Suðurland",
+      "isRural": true,
+      "buses": [
+        "51",
+        "51",
+        "51",
+        "52",
+        "52",
+        "71",
+        "72",
+        "73"
+      ],
+      "detailedBuses": [
+        {
+          "number": "51",
+          "name": "Höfn » Skaftafell » Vík »Hvolsvöllur » Selfoss » Hveragerði » Reykjavík"
+        },
+        {
+          "number": "51",
+          "name": "Höfn » Skaftafell » Vík »Hvolsvöllur » Selfoss » Hveragerði » Reykjavík"
+        },
+        {
+          "number": "51",
+          "name": "Höfn » Skaftafell » Vík »Hvolsvöllur » Selfoss » Hveragerði » Reykjavík"
+        },
+        {
+          "number": "52",
+          "name": "Reykjavík » Hveragerði » Selfoss » Hella » Hvolsvöllur » Landeyjahöfn"
+        },
+        {
+          "number": "52",
+          "name": "Reykjavík » Hveragerði » Selfoss » Hella » Hvolsvöllur » Landeyjahöfn"
+        },
+        {
+          "number": "71",
+          "name": "Þorlákshöfn » Hveragerði"
+        },
+        {
+          "number": "72",
+          "name": "Selfoss » Borg » Reykholt » Flúðir » Selfoss"
+        },
+        {
+          "number": "73",
+          "name": "Selfoss » Flúðir » Reykholt » Laugarvatn » Grímsnes » Selfoss"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "area": "Vestur- og Norðurland",
+      "isRural": true,
+      "buses": [
+        "57",
+        "57",
+        "57",
+        "57",
+        "58",
+        "59",
+        "63",
+        "64",
+        "81",
+        "81",
+        "82",
+        "84"
+      ],
+      "detailedBuses": [
+        {
+          "number": "57",
+          "name": "Akureyri » Sauðárkrókur » Blönduós » Borgarnes » Akranes »  Reykjavík"
+        },
+        {
+          "number": "57",
+          "name": "Akureyri » Sauðárkrókur » Blönduós » Borgarnes » Akranes »  Reykjavík"
+        },
+        {
+          "number": "57",
+          "name": "Akureyri » Sauðárkrókur » Blönduós » Borgarnes » Akranes »  Reykjavík"
+        },
+        {
+          "number": "57",
+          "name": "Akureyri » Sauðárkrókur » Blönduós » Borgarnes » Akranes »  Reykjavík"
+        },
+        {
+          "number": "58",
+          "name": "Stykkishólmur » Borgarnes"
+        },
+        {
+          "number": "59",
+          "name": "Borgarnes » Búðardalur » Hólmavík"
+        },
+        {
+          "number": "63",
+          "name": "Varmalandsskóli » Baula » Borgarnes"
+        },
+        {
+          "number": "64",
+          "name": "Kleppjárnsreykir » Hvanneyri » Borgarnes"
+        },
+        {
+          "number": "81",
+          "name": "Borgarnes » Hvanneyri » Reykholt » Borgarnes"
+        },
+        {
+          "number": "81",
+          "name": "Borgarnes » Hvanneyri » Reykholt » Borgarnes"
+        },
+        {
+          "number": "82",
+          "name": "Hellissandur » Grundarfjörður » Stykkishólmur"
+        },
+        {
+          "number": "84",
+          "name": "Skagaströnd » Blonduós"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "area": "Norður- og Norðausturland",
+      "isRural": true,
+      "buses": [
+        "56",
+        "78",
+        "79"
+      ],
+      "detailedBuses": [
+        {
+          "number": "56",
+          "name": "Akureyri » Reykjahlíð » Egilsstaðir"
+        },
+        {
+          "number": "78",
+          "name": "Siglufjörður » Ólafsfjörður » Dalvík » Akureyri"
+        },
+        {
+          "number": "79",
+          "name": "Húsavík » Akureyri"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "area": "Reykjanesbær innanbæjarvagnar",
+      "isRural": false,
+      "buses": [
+        "R1",
+        "R3",
+        "R4"
+      ],
+      "detailedBuses": [
+        {
+          "number": "R1",
+          "name": "Miðstöð » Vatnsholt » Heiðarsel » Myllubakkaskóli » Nesvellir » Miðstöð"
+        },
+        {
+          "number": "R3",
+          "name": "Miðstöð » Skógartorg » Keilir » Virkjun » Grænás » Miðstöð"
+        },
+        {
+          "number": "R4",
+          "name": "Miðstöð » Grænás » Hafnir» Grænás » Miðstöð"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "area": "Akureyri innanbæjarvagnar",
+      "isRural": false,
+      "buses": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "A6"
+      ],
+      "detailedBuses": [
+        {
+          "number": "A1",
+          "name": ""
+        },
+        {
+          "number": "A2",
+          "name": ""
+        },
+        {
+          "number": "A3",
+          "name": ""
+        },
+        {
+          "number": "A4",
+          "name": ""
+        },
+        {
+          "number": "A5",
+          "name": ""
+        },
+        {
+          "number": "A6",
+          "name": " "
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "area": "Suðurnes",
+      "isRural": true,
+      "buses": [
+        "55",
+        "55",
+        "55",
+        "88",
+        "89"
+      ],
+      "detailedBuses": [
+        {
+          "number": "55",
+          "name": "KEF Airport » Reykjanesbær » Keilir » Fjörður » Reykjavík/HÍ"
+        },
+        {
+          "number": "55",
+          "name": "KEF Airport » Reykjanesbær » Keilir » Fjörður » Reykjavík/HÍ"
+        },
+        {
+          "number": "55",
+          "name": "KEF Airport » Reykjanesbær » Keilir » Fjörður » Reykjavík/HÍ"
+        },
+        {
+          "number": "88",
+          "name": "Grindavík » Grindavíkurafleggjari » Reykjanesbær"
+        },
+        {
+          "number": "89",
+          "name": "Reykjanesbær » Garður » Sandgerði"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "area": "Austurland",
+      "isRural": false,
+      "buses": [
+        "E1",
+        "E2",
+        "E3",
+        "E2",
+        "E4",
+        "E5"
+      ],
+      "detailedBuses": [
+        {
+          "number": "E1",
+          "name": "Egilsstaðir » Reyðarfjörður » Eskifjörður » Norðfjörður (Neskaupsstaður)"
+        },
+        {
+          "number": "E2",
+          "name": "Reyðarfjörður » Fáskrúðsfjörður » Stöðvarfjörður » Breiðdalsvík"
+        },
+        {
+          "number": "E3",
+          "name": "Seyðisfjörður » Egilsstaðir"
+        },
+        {
+          "number": "E2",
+          "name": "Reyðarfjörður » Fáskrúðsfjörður » Stöðvarfjörður » Breiðdalsvík"
+        },
+        {
+          "number": "E4",
+          "name": "Höfn » Djúpivogur"
+        },
+        {
+          "number": "E5",
+          "name": "Borgarfjörður » Egilsstaðir"
+        }
+      ]
+    }
+  ]
+}
