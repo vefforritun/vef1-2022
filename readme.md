@@ -15,7 +15,7 @@ Hér má nálgast alla fyrirlestra, dæmi og verkefni í áfangagnum vefforritun
 | 7    | 3. október    | Nánar um git; CSS í stærri verkefnum                                     | CSS #4                | CSS #3               |
 | 8    | 10. október   | JavaScript: gildi, týpur, virkjar, stýriskipanir, föll                   |                       | CSS #4               |
 | 9    | 17. október   | Fylki, hlutir; Einingar; forritun á vef: DOM og atburðir                 | JS #1                 |                      |
-| 10   | 24. október   | Ósamstillt forritun; HTTP & form; Ajax;                                  | JS #2, Hópverkefni 2  | JS #1, Hópverkefni 1 |
+| 10   | 24. október   | Ósamstillt forritun; HTTP & form; Ajax; eslint                           | JS #2, Hópverkefni 2  | JS #1, Hópverkefni 1 |
 | 11   | 31. október   | Tæki & tól; Villumeðhöndlun & reglulegar segðir; Fallaforritun           | JS #3                 | JS #2                |
 | 12   | 7. nóvember   | Hlutir; HTML5 og Web APIs; Prófanir                                      | JS #4                 | JS #3                |
 | 13   | 14. nóvember  | Buffer                                                                   |                       | JS #4                |

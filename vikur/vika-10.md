@@ -7,6 +7,7 @@
 * [Ósamstillt forritun](../namsefni/31.async/)
 * [Forritun á vef, DOM](../namsefni/32.http-form/)
 * [Atburðir](../namsefni/33.ajax/)
+* [eslint](../namsefni/34.eslint/)
 
 ## Lesefni
 
