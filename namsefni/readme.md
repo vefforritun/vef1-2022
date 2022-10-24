@@ -50,6 +50,11 @@ Margir af fyrirlestrum voru teknir upp fyrir áfangann árið 2021 og geta því
   * [Forritun á vef, DOM](./28.browser-dom/)
   * [Atburðir](./29.events/)
   * [Einingar](./30.modules/)
+* [Vika 10](../vikur/vika-10.md)
+  * [Ósamstillt forritun](./31.async/)
+  * [HTTP og form](./32.http-form/)
+  * [Ajax og fetch](./33.ajax/)
+  * [eslint](./34.eslint/)
 
 ## Kennslubækur
 

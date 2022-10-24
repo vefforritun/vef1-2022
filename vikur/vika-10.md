@@ -1,12 +1,16 @@
 # Vika 10, 24.–30. október
 
-[Fyrirlestur 10.1: x (x:x)](https://youtu.be/)
+[Fyrirlestur 10.1: JavaScript og DOM (34:34)](https://youtu.be/g-toC4TDaw0)
+
+[Fyrirlestur 10.2: Events og modules (23:09)](https://youtu.be/OUFXujiLhMQ)
+
+[Fyrirlestur 10.3: Dæmi (13:09)](https://youtu.be/jc261Ic8Jkc)
 
 ## Námsefni
 
 * [Ósamstillt forritun](../namsefni/31.async/)
-* [Forritun á vef, DOM](../namsefni/32.http-form/)
-* [Atburðir](../namsefni/33.ajax/)
+* [HTTP og form](../namsefni/32.http-form/)
+* [Ajax og fetch](../namsefni/33.ajax/)
 * [eslint](../namsefni/34.eslint/)
 
 ## Lesefni

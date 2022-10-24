@@ -99,7 +99,7 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
   * [Sýnilausn](https://github.com/vefforritun/vef1-2022-v7-synilausn), gerð aðgengileg 19. október.
 * [Verkefni 8 (JS #2)](https://github.com/vefforritun/vef1-2022-v8), forritun á vef, DOM og atburðir.
   * Sett fyrir 24. október, skilist 1. nóvember.
-  * [Kynning](https://youtu.be/)
+  * [Kynning](https://youtu.be/iy_VF8uY62k)
   * [Sýnilausn](https://github.com/vefforritun/vef1-2022-v8-synilausn), gerð aðgengileg 2. nóvember.
 * [Verkefni 9 (JS #3)](https://github.com/vefforritun/vef1-2022-v9), forritun á móti vefþjónustu, JSON, eslint.
   * Sett fyrir 31. október, skilist 8. nóvember.
