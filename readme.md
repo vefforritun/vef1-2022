@@ -18,8 +18,8 @@ Hér má nálgast alla fyrirlestra, dæmi og verkefni í áfangagnum vefforritun
 | 10   | 24. október   | Ósamstillt forritun; HTTP & form; Ajax; eslint                           | JS #2, Hópverkefni 2  | JS #1, Hópverkefni 1 |
 | 11   | 31. október   | Tæki & tól; Villumeðhöndlun & reglulegar segðir; Fallaforritun           | JS #3                 | JS #2                |
 | 12   | 7. nóvember   | Hlutir; HTML5 og Web APIs; Prófanir                                      | JS #4                 | JS #3                |
-| 13   | 14. nóvember  | Buffer                                                                   |                       | JS #4                |
-| 14   | 21. nóvember  | Samantekt og upprifjun; upplýsingar um lokapróf                          |                       | Hópverkefni 2        |
+| 13   | 14. nóvember  | Samantekt og upprifjun; upplýsingar um lokapróf                          |                       | JS #4                |
+| 14   | 21. nóvember  | Aðstoð, umræður; verkefnatími                                            |                       | Hópverkefni 2        |
 
 Nánar er [fjallað um kennsluáætlun í viku 1](vikur/vika-01.md).
 
@@ -64,6 +64,8 @@ Fyrirlestrar eru haldnir 15:00-17:20 á mánudögum.
   * Fylki, hlutir; Einingar; forritun á vef: DOM og atburðir
 * [Vika 10, 24.–30. október](vikur/vika-10.md)
   * Ósamstillt forritun; HTTP & form; Ajax
+* [Vika 11, 31. október–6. nóvember](vikur/vika-11.md)
+  * Tæki & tól; Villumeðhöndlun & reglulegar segðir; Fallaforritun
 
 ## Verkefni
 

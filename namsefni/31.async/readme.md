@@ -1,6 +1,6 @@
 # Ósamstill forritun
 
-[Fyrirlestur]1.async.md), [vídeó (29:35)](https://youtu.be/QJsHkQHZrQw)
+[Fyrirlestur](1.async.md), [vídeó (29:35)](https://youtu.be/QJsHkQHZrQw)
 
 ## Lesefni
 

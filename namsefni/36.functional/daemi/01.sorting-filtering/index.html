@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8">
+    <title>sort & filter</title>
+    <script type="module" src="main.js"></script>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧪</text></svg>"
+    />
+  </head>
+  <body>
+    <form>
+      <div>
+        <label for="search">Leita:</label>
+        <input type="search" id="search" name="search">
+      </div>
+      <div>
+        <label>
+          <input type="checkbox" name="hideGraduated">
+          Fela útskrifaða
+        </label>
+      </div>
+      <div>
+        <label>
+          <input type="checkbox" name="hideNotGraduated">
+          Fela óútskrifaða
+        </label>
+      </div>
+      <div>
+        <label for="sort">Raða eftir</label>
+        <select>
+          <option value="name">Nafni, stafrófsröð</option>
+          <option value="name-reverse">Nafni, öfugri stafrófsröð</option>
+          <option value="graduation">Útskrifarári, elsta fyrst</option>
+          <option value="graduation-reverse">Útskrifarári, elsta seinast</option>
+        </select>
+        <button>Uppfæra</button>
+    </form>
+    <ul>
+      <!-- þessi listi mun halda utan um öll gögn -->
+    </ul>
+  </body>
+</html>

@@ -1,0 +1,15 @@
+{
+  "name": "01.sorting-filtering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "browser-sync start --server --files main.js **/*.js styles.css index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.7"
+  }
+}
