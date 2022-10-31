@@ -1,8 +1,12 @@
 # Vika 11, 31. október–6. nóvember
 
-[Fyrirlestur 11.1: x (x:x)](https://youtu.be/)
+[Fyrirlestur 11.1: Inngangur að verkefni 8 (52:18)](https://youtu.be/YFJupG5Y-nE)
 
-## Námsefni 
+[Dæmi tengt fyrirlestri](https://github.com/vefforritun/vef1-2022-v8-f11).
+
+[Fyrirlestur 11.1: eslint, prettier & fetch (43:42)](https://youtu.be/En5ff858C1g)
+
+## Námsefni
 
 * [Villumeðhöndlun & reglulegar segðir](../namsefni/35.errors-regex/)
 * [Fallaforritun](../namsefni/36.functional/)

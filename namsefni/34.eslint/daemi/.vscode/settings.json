@@ -1,4 +1,9 @@
 {
   // virkar aðeins ef í rót verkefnis
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+
+  // Lagar sjálfkrafa öll „auto-fixable“ atriði frá eslint
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
 }
