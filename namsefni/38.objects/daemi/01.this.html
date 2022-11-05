@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8">
+    <title>this</title>
+  </head>
+  <body>
+    <button>takki</button>
+    <script>
+    function logThis() {
+      console.log(this);
+    }
+
+    const Obj = {
+      logThis() {
+        console.log(this);
+      },
+    };
+
+    const btn = document.querySelector('button');
+    btn.addEventListener('click', logThis);
+
+    console.log(this); // window
+    logThis(); // window
+    Obj.logThis(); // {logThis: f}
+    btn.click(); // <button>
+    </script>
+  </body>
+</html>

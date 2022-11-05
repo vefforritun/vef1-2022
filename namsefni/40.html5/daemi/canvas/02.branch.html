@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8">
+    <title>Branch</title>
+  </head>
+  <body>
+    <canvas width="1000" height="1000"></canvas>
+    <script>
+      const cx = document.querySelector('canvas').getContext('2d');
+
+      function branch(length, angle, scale) {
+        cx.fillRect(0, 0, 1, length);
+        if (length < 8) return;
+        cx.save();
+        cx.translate(0, length);
+        cx.rotate(-angle);
+        branch(length * scale, angle, scale);
+        cx.rotate(2 * angle);
+        branch(length * scale, angle, scale);
+        cx.restore();
+      }
+
+      cx.translate(300, 0);
+
+      branch(90, 0.6, 0.8);
+    </script>
+  </body>
+</html>

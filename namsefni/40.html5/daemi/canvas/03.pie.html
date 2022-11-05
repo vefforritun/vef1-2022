@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8">
+    <title>Kökurit</title>
+  </head>
+  <body>
+    <canvas width="200" height="200"></canvas>
+    <script>
+      const cx = document.querySelector('canvas').getContext('2d');
+      const results = [
+        { name: 'Satisfied', count: 1043, color: 'red' },
+        { name: 'Neutral', count: 563, color: 'lightgreen' },
+        { name: 'Unsatisfied', count: 510, color: 'pink' },
+        { name: 'No comment', count: 175, color: 'silver' },
+      ];
+
+      const total = results
+        .reduce((sum, { count }) => sum + count, 0);
+      // Start at the top
+      let currentAngle = -0.5 * Math.PI;
+      // eslint-disable-next-line no-restricted-syntax
+      for (const result of results) {
+        const sliceAngle = (result.count / total) * 2 * Math.PI;
+        cx.beginPath();
+        // center=100,100, radius=100
+        // from current angle, clockwise by slice's angle
+        cx.arc(100, 100, 100,
+          currentAngle, currentAngle + sliceAngle);
+        currentAngle += sliceAngle;
+        cx.lineTo(100, 100);
+        cx.fillStyle = result.color;
+        cx.fill();
+      }
+    </script>
+  </body>
+</html>

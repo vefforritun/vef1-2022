@@ -66,6 +66,10 @@ Fyrirlestrar eru haldnir 15:00-17:20 á mánudögum.
   * Ósamstillt forritun; HTTP & form; Ajax
 * [Vika 11, 31. október–6. nóvember](vikur/vika-11.md)
   * Tæki & tól; Villumeðhöndlun & reglulegar segðir; Fallaforritun
+* [Vika 12, 7.–13. nóvember](vikur/vika-12.md)
+  * Hlutir; HTML5 og Web APIs; Prófanir
+* [Vika 13, 14.–20. nóvember](vikur/vika-13.md)
+  * Samantekt og upprifjun; upplýsingar um lokapróf
 
 ## Verkefni
 

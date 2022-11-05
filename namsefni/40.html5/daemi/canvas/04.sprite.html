@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8">
+    <title>sprites</title>
+  </head>
+
+  <body>
+    <canvas></canvas>
+    <script>
+      const cx = document.querySelector('canvas').getContext('2d');
+      const img = document.createElement('img');
+      img.src = 'player.png';
+      const spriteW = 48;
+      const spriteH = 60;
+      img.addEventListener('load', () => {
+        let cycle = 0;
+        setInterval(() => {
+          cx.clearRect(0, 0, spriteW, spriteH);
+          cx.drawImage(img,
+            // source rectangle
+            cycle * spriteW, 0, spriteW, spriteH,
+            // destination rectangle
+            0, 0, spriteW, spriteH);
+          cycle = (cycle + 1) % 8;
+        }, 300);
+      });
+    </script>
+  </body>
+</html>
