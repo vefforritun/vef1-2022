@@ -80,7 +80,7 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
 * [Verkefni 1 (HTML #1)](https://github.com/vefforritun/vef1-2022-v1), setja upp tól, gera síðu aðgengilega á vefnum.
   * Sett fyrir 22. ágúst, skilist 6. september.
   * [Kynning](https://youtu.be/)
-  * [Sýnilausn](https://github.com/vefforritun/vef1-2022-v1-synilausn), gerð aðgengileg 7. september.
+  * Engin sýnilausn.
 * [Verkefni 2 (HTML #2)](https://github.com/vefforritun/vef1-2022-v2), setja upp HTML skjöl með efni, formum og töflum. Taka tillit til merkingarfræði, aðgengi og SEO.
   * Sett fyrir 5. september, skilist 13. september.
   * [Kynning](https://youtu.be/fZ13SnZGTFE)
@@ -109,12 +109,12 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
   * [Sýnilausn](https://github.com/vefforritun/vef1-2022-v8-synilausn), gerð aðgengileg 2. nóvember.
 * [Verkefni 9 (JS #3)](https://github.com/vefforritun/vef1-2022-v9), forritun á móti vefþjónustu, JSON, eslint.
   * Sett fyrir 31. október, skilist 8. nóvember.
-  * [Kynning](https://youtu.be/)
+  * [Kynning](https://youtu.be/6bJnSiLkZMs)
   * [Sýnilausn](https://github.com/vefforritun/vef1-2022-v9-synilausn), gerð aðgengileg 9. nóvember.
 * [Verkefni 10 (JS #4)](https://github.com/vefforritun/vef1-2022-v10), hlutir, vef API, prófanir, build kerfi.
   * Sett fyrir 7. nóvember, skilist 15. nóvember.
   * [Kynning](https://youtu.be/)
-  * [Sýnilausn](https://github.com/vefforritun/vef1-2022-v10-synilausn), gerð aðgengileg 16. nóvember.
+  * Engin sýnilausn.
 
 ### Hópverkefni
 
