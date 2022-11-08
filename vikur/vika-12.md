@@ -2,10 +2,11 @@
 
 [Fyrirlestur 12.1: fetch, promises og async await (42:43)](https://youtu.be/i2C7-SflnxY)
 
+[Dæmi úr fyrirlestri, tengt v9](https://github.com/vefforritun/vef1-2022-v9-f12)
+
 [Um verkefni 9](https://youtu.be/6bJnSiLkZMs)
 
 [Fyrirlestur 12.2: Vite, Web APIs (42:15)](https://youtu.be/UeUd4z-E9Fs)
-
 
 ## Námsefni
 
