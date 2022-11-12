@@ -70,6 +70,8 @@ Fyrirlestrar eru haldnir 15:00-17:20 á mánudögum.
   * Hlutir; HTML5 og Web APIs; Prófanir
 * [Vika 13, 14.–20. nóvember](vikur/vika-13.md)
   * Samantekt og upprifjun; upplýsingar um lokapróf
+* [Vika 14, 21.–27. nóvember](vikur/vika-14.md)
+  * Aðstoð, umræður; verkefnatími
 
 ## Verkefni
 
@@ -135,7 +137,10 @@ Sjá á Uglu og Canvas síðu námskeiðs.
 
 ## Lokapróf
 
-Nánar um lokapróf í lok september.
+Lokapróf haldið mánudaginn 5. des kl. 13:30–16:30.
+
+* [Upprifjun og samantekt á námsefni](../namsefni/41.upprifjun-samantekt/)
+* [Lokapróf](../namsefni/42.lokaprof/)
 
 Hægt er að nálgast eldri lokapróf á Uglu.
 
