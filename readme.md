@@ -44,9 +44,9 @@ Fyrirlestrar eru haldnir 15:00-17:20 á mánudögum.
 
 ### Vikur
 
-* [Vika 1, 23.–29. ágúst 2021](vikur/vika-01.md)
+* [Vika 1, 23.–29. ágúst 2022](vikur/vika-01.md)
   * Kynning; vefurinn og vefforritun; GitHub, Netlify; HTML
-* [Vika 2, 30. ágúst–5. september 2021](vikur/vika-02.md)
+* [Vika 2, 30. ágúst–5. september 2022](vikur/vika-02.md)
   * Element; töflur, listar, form; að skrifa HTML; aðgengi & SEO
 * [Vika 3, 5. september–11. september](vikur/vika-03.md)
   * CSS; box model; specificity og cascade; visual formatting; Letur & litir
