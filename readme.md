@@ -139,7 +139,7 @@ Sjá á Uglu og Canvas síðu námskeiðs.
 
 Lokapróf haldið mánudaginn 5. des kl. 13:30–16:30.
 
-* [Upprifjun og samantekt á námsefni](../namsefni/41.upprifjun-samantekt/)
+* [Upprifjun og samantekt á námsefni](../namsefni/41.upprifjun-samantekt/readme.md)
 * [Lokapróf](../namsefni/42.lokaprof/)
 
 Hægt er að nálgast eldri lokapróf á Uglu.
